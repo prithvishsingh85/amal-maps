@@ -1,3 +1,6 @@
+import { onZoomChangeEvent } from './mapEvents';
+import { mapOptions } from '../../options/mapOptions';
+
 let mapElement;
 
 export const getMap = () => {
@@ -7,17 +10,21 @@ export const getMap = () => {
 export const renderMap = (options) => {
   const { Map } = google.maps;
 
-  // The map, centered at Uluru
-  map = new Map(document.getElementById("map"), {
-    // mapId: "fc8b09cecfb6decb",
+  map = new Map(document.getElementById('map'), {
+    ...mapOptions,
     ...options,
   });
   mapElement = map;
+  google.maps.event.addListener(
+    map,
+    'zoom_changed',
+    onZoomChangeEvent.bind(null, map),
+  );
+
   return map;
 };
 
 export const setStyle = (styles) => {
-  //   mapElement.setMapStyle(styles);
   mapElement.setOptions({
     styles: styles,
   });

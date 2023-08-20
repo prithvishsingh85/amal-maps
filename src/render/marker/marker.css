@@ -1,0 +1,14 @@
+.marker-label {
+  transform: translateY(-61px);
+  transition: all 0.2s;
+}
+
+.marker-label-large {
+  transition: all 0.2s;
+  /* 
+  61px for marker size 120
+  81px for marker size 150 
+  120px for marker size 200
+  */
+  transform: translateY(-85px);
+}

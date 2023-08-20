@@ -1,36 +1,99 @@
 export const baseStyles = [
   {
-    featureType: "all",
-    elementType: "geometry",
+    featureType: 'all',
+    elementType: 'labels',
     stylers: [
       {
-        color: "#f8f5eb",
+        visibility: 'off',
       },
     ],
   },
   {
-    featureType: "administrative.province",
-    elementType: "geometry.stroke",
+    featureType: 'administrative.country',
+    elementType: 'labels',
     stylers: [
       {
-        color: "#333",
+        visibility: 'on',
       },
     ],
   },
   {
-    featureType: "administrative.country",
-    elementType: "geometry.stroke",
+    featureType: 'administrative.province',
+    elementType: 'labels',
     stylers: [
       {
-        color: "#333",
+        visibility: 'on',
       },
     ],
   },
   {
-    featureType: "water",
+    featureType: 'poi.attraction',
+    elementType: 'labels',
     stylers: [
       {
-        color: "#a9d0ce",
+        visibility: 'on',
+      },
+    ],
+  },
+  {
+    featureType: 'poi.government',
+    elementType: 'labels',
+    stylers: [
+      {
+        visibility: 'on',
+      },
+    ],
+  },
+  // {
+  //   featureType: 'road.highway.controlled_access',
+  //   elementType: 'labels',
+  //   stylers: [
+  //     {
+  //       visibility: 'on',
+  //     },
+  //   ],
+  // },
+  {
+    featureType: 'all',
+    elementType: 'geometry',
+    stylers: [
+      {
+        color: '#f8f5eb',
+      },
+    ],
+  },
+  {
+    featureType: 'road.highway.controlled_access',
+    elementType: 'geometry',
+    stylers: [
+      {
+        color: '#f8f5eb',
+      },
+    ],
+  },
+  {
+    featureType: 'administrative.province',
+    elementType: 'geometry.stroke',
+    stylers: [
+      {
+        color: '#333',
+      },
+    ],
+  },
+  {
+    featureType: 'administrative.country',
+    elementType: 'geometry.stroke',
+    stylers: [
+      {
+        color: '#333',
+      },
+    ],
+  },
+  {
+    featureType: 'water',
+    stylers: [
+      {
+        color: '#a9d0ce',
       },
     ],
   },
