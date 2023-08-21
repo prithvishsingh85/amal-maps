@@ -23,8 +23,10 @@ export async function loadMap() {
     await delay(700);
 
     zoomMap(9);
-    renderMarker(coordinate);
+    renderMarker(map, coordinate);
 
     await delay(1200);
   }
+
+  return map;
 }

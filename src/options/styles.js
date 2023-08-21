@@ -36,6 +36,14 @@ export const baseStyles = [
     ],
   },
   {
+    featureType: 'building',
+    elementType: 'geometry',
+    stylers: [
+      { color: '#444444' },
+      { lightness: -30 }, // Darken the building shapes
+    ],
+  },
+  {
     featureType: 'poi.government',
     elementType: 'labels',
     stylers: [

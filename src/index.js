@@ -5,8 +5,8 @@ import './styles.css';
 
 async function initMap() {
   await loadLibraries();
-  // await loadMap();
-  await loadCityMap();
+  await loadMap();
+  // await loadCityMap();
 }
 
 initMap();

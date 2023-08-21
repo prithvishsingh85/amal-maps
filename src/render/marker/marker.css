@@ -12,3 +12,8 @@
   */
   transform: translateY(-85px);
 }
+
+.marker-label-small {
+  transition: all 0.2s;
+  transform: translateY(-30px);
+}
