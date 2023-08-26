@@ -1,75 +1,100 @@
 import {
-  MARKER_SIZE,
-  MARKER_MAX_SIZE,
   MARKER_ANIMATION_STEP,
-  FONT_SIZE_MAX,
-  labelOptions,
+  renderLabel,
+  generateMarkerSize,
+  state,
 } from '../../options';
 import { loadCityMap } from '../cityMap';
-import { renderLabel } from './markers';
+import { closeInfoWindowAfterTime, openInfoWindow } from './infoWindow';
 
-export const onMarkerHoverEvent = (marker, coordinate) => {
-  const label = marker.getLabel();
-  marker.setLabel({
-    ...renderLabel(coordinate.title, coordinate.label),
-    fontSize: FONT_SIZE_MAX,
-    className: 'marker-label-large',
-  });
+export const onMarkerHoverEvent = (
+  marker,
+  coordinate,
+  size,
+  thresholdSize,
+  multiplier,
+) => {
+  if (coordinate.info) {
+    openInfoWindow(marker.getMap(), marker, coordinate);
+  } else {
+    marker.setLabel(renderLabel(coordinate.title, true, multiplier));
+  }
 
   const icon = marker.getIcon();
 
-  requestAnimationFrame(scaleUp.bind(null, marker, icon, MARKER_SIZE));
+  requestAnimationFrame(
+    scaleUp.bind(null, marker, icon, size, thresholdSize, multiplier),
+  );
 };
 
-const scaleUp = (marker, icon, value) => {
+const scaleUp = (marker, icon, value, thresholdSize, multiplier) => {
   marker.setIcon({
     ...icon,
-    scaledSize: new google.maps.Size(value, value), // scaled size
-    size: new google.maps.Size(value, value),
+    ...generateMarkerSize(value),
   });
-  if (value < MARKER_MAX_SIZE) {
+  if (value < thresholdSize) {
     requestAnimationFrame(
       scaleUp.bind(
         null,
         marker,
         icon,
-        Math.min(MARKER_MAX_SIZE, value + MARKER_ANIMATION_STEP),
+        Math.min(thresholdSize, value + MARKER_ANIMATION_STEP),
+        thresholdSize,
+        multiplier,
       ),
     );
   }
 };
 
-export const onMarkerHoverOutEvent = (marker, coordinate) => {
-  const label = marker.getLabel();
-  // marker.setLabel({
-  //   ...label,
-  //   ...labelOptions,
-  //   className: 'marker-label',
-  // });
-  marker.setLabel(null);
+export const onMarkerHoverOutEvent = (
+  marker,
+  coordinate,
+  size,
+  thresholdSize,
+  multiplier,
+) => {
+  if (coordinate.info) {
+    closeInfoWindowAfterTime(500);
+  } else {
+    marker.setLabel(renderLabel(coordinate.title, false, multiplier));
+  }
 
   const icon = marker.getIcon();
-  requestAnimationFrame(scaleDown.bind(null, marker, icon, MARKER_MAX_SIZE));
+  requestAnimationFrame(
+    scaleDown.bind(null, marker, icon, size, thresholdSize, multiplier),
+  );
 };
 
-const scaleDown = (marker, icon, value) => {
+const scaleDown = (marker, icon, value, thresholdSize, multiplier) => {
   marker.setIcon({
     ...icon,
-    scaledSize: new google.maps.Size(value, value), // scaled size
-    size: new google.maps.Size(value, value),
+    ...generateMarkerSize(value),
   });
-  if (value > MARKER_SIZE) {
+  if (value > thresholdSize) {
     requestAnimationFrame(
       scaleDown.bind(
         null,
         marker,
         icon,
-        Math.max(MARKER_SIZE, value - MARKER_ANIMATION_STEP * 2),
+        Math.max(thresholdSize, value - MARKER_ANIMATION_STEP * 2),
+        thresholdSize,
+        multiplier,
       ),
     );
   }
 };
 
-export const onMarkerClick = (marker, coordinate) => {
-  loadCityMap(marker);
+export const onMarkerClick = (map, marker, coordinate) => {
+  if (coordinate.cityCoordinates?.length) {
+    state.map = map;
+    loadCityMap(marker, coordinate.cityCoordinates);
+  } else if (coordinate.info?.url) {
+    const infoWindow = getInfoWindow(coordinate);
+    infoWindow.open({
+      anchor: marker,
+      map,
+    });
+    openInfoWindow(map, marker, coordinate);
+    // window.open(coordinate.link.url, '_blank');
+  }
 };

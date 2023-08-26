@@ -1,5 +1,11 @@
+import { state } from '../options';
+
 export const delay = async (time) => {
   await new Promise((resolve) => {
-    setTimeout(() => resolve(), time);
+    if (state.noAnim) {
+      resolve();
+    } else {
+      setTimeout(() => resolve(), time);
+    }
   });
 };

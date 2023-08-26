@@ -1,31 +1,29 @@
-import { getCoordinates } from '../../options';
-import { renderMap, panMap, zoomMap } from './mapRender';
+import { getCoordinates, MARKER_DROP_ANIMATION, CENTER } from '../../options';
+import { removeBackButton } from '../backButton';
+import { renderMap } from './mapRender';
 import { renderMarker } from '../marker/markers';
-import { renderRoute } from '../route/direction';
+import { renderRouteWithWayPoints, WAYPOINTS } from '../route/direction';
 import { delay } from '../../utils';
 
 export async function loadMap() {
   const coordinates = getCoordinates();
 
-  const map = renderMap({
-    center: coordinates[0].position,
-  });
-  await delay(1000);
+  removeBackButton();
 
-  zoomMap(8);
+  const timeBetweenAnimation = MARKER_DROP_ANIMATION / coordinates.length;
+
+  const map = renderMap({
+    center: CENTER,
+  });
 
   for (let index = 0; index < coordinates.length; index++) {
     const coordinate = coordinates[index];
-    if (index > 0) {
-      renderRoute(map, coordinates[index - 1].position, coordinate.position);
-    }
-    panMap(coordinate.position);
-    await delay(700);
 
-    zoomMap(9);
+    renderRouteWithWayPoints(map, coordinates, index);
+
     renderMarker(map, coordinate);
 
-    await delay(1200);
+    await delay(timeBetweenAnimation);
   }
 
   return map;

@@ -1,8 +1,74 @@
 body {
   background-color: lightblue;
+  height: 100vh;
+  width: 100%;
+}
+
+#map-container {
+  height: 100%;
+  width: 100%;
+  position: relative;
 }
 
 #map {
-  height: 100vh;
+  height: 100%;
   width: 100%;
+}
+
+#map-back-button {
+  position: absolute;
+  top: 10px;
+  left: 200px;
+  width: fit-content;
+  max-height: 40px;
+  padding: 5px 17px 5px 10px;
+  display: flex;
+  align-items: center;
+  font-size: 14px;
+  font-family: Syne, sans-serif;
+  border: 0px;
+  background: none padding-box rgb(255, 255, 255);
+  border-bottom-left-radius: 2px;
+  border-top-left-radius: 2px;
+  box-shadow: rgba(0, 0, 0, 0.3) 0px 1px 4px -1px;
+  display: none;
+  transition: background-color;
+  cursor: pointer;
+}
+
+#map-back-button:hover {
+  background: none padding-box rgb(235, 235, 235);
+}
+
+#map-back-button.show {
+  display: flex;
+}
+
+#map-back-button img {
+  width: 32px;
+  transform: scale(1.2);
+  margin-right: 2px;
+  animation: map-back-button-anim 6s ease 5s infinite forwards;
+}
+
+#map-back-button:hover img {
+  animation: none;
+}
+
+@keyframes map-back-button-anim {
+  0% {
+    transform: scale(1.2) translateX(0px);
+  }
+  10% {
+    transform: scale(1.2) translateX(-5px);
+  }
+  20% {
+    transform: scale(1.2) translateX(0px);
+  }
+  30% {
+    transform: scale(1.2) translateX(-5px);
+  }
+  40% {
+    transform: scale(1.2) translateX(0px);
+  }
 }

@@ -1,4 +1,6 @@
-import { mapOptions } from '../../options/mapOptions';
+import { mapOptions, state } from '../../options';
+import { closeInfoWindow } from '../marker/infoWindow';
+import { goBack, onZoomChangeEvent } from './mapEvents';
 
 let mapElement;
 
@@ -14,11 +16,12 @@ export const renderMap = (options) => {
     ...options,
   });
   mapElement = map;
-  // google.maps.event.addListener(
-  //   map,
-  //   'zoom_changed',
-  //   onZoomChangeEvent.bind(null, map),
-  // );
+
+  google.maps.event.addListener(map, 'zoom_changed', () => {
+    closeInfoWindow();
+    onZoomChangeEvent(map);
+  });
+  google.maps.event.addListener(map, 'dragstart', closeInfoWindow);
 
   return map;
 };

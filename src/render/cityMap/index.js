@@ -1,67 +1,51 @@
-import { getCoordinates, baseStyles, cityCoordinates } from '../../options';
-import { renderMap, panMap, zoomMap } from './mapRender';
-import { renderRoute } from '../route/direction';
+import { renderMap } from './mapRender';
+import { addBackButton } from '../backButton';
 import { renderMarker } from '../marker/markers';
 import { delay } from '../../utils';
+import { MARKER_SIZE, MARKER_MAX_SIZE } from '../../options';
 
-export async function loadCityMap(srcMarker) {
-  const coordinates = getCoordinates();
+const START_HEADING = 20;
+const MAX_ROTATION = START_HEADING;
+const MIN_ROTATION = -50;
+const STEP_ROTATION = 1;
+const TOTAL_ANIMATION = 2000;
+const STEP_TIME = TOTAL_ANIMATION / (START_HEADING - MIN_ROTATION);
+const ANIMATION_COUNT = 0;
 
+export async function loadCityMap(srcMarker, coordinates) {
   const map = renderMap({
-    center: coordinates[0].position,
-    zoom: 17,
+    center: srcMarker.getPosition(),
+    zoom: 13,
     tilt: 60,
-    heading: 10,
+    heading: START_HEADING,
     minZoom: 12, // minimum zoom level
     maxZoom: 1000, // maximum zoom level
   });
-  await delay(2000);
-  const childCoordinates = cityCoordinates(coordinates[0].id);
-  // renderMarker(map, childCoordinates.coordinates[0]);
-  renderCoordinates.bind(map, childCoordinates);
-  await delay(1000);
-  setTimeout(
-    animate.bind(
-      null,
-      map,
-      30,
-      -1,
-      0,
-      renderCoordinates.bind(null, map, childCoordinates),
-    ),
-    50,
-  );
 
+  addBackButton();
+
+  await delay(500);
+  renderCoordinates(map, coordinates);
+  await delay(200);
+  setTimeout(animate.bind(null, map, 30, -1, 0), 50);
   return map;
 }
 
-const renderCoordinates = async (map, childCoordinates) => {
-  const { coordinates } = childCoordinates;
-  zoomMap(14);
+const renderCoordinates = async (map, coordinates) => {
   await delay(500);
   for (let index = 0; index < coordinates.length; index++) {
     const coordinate = coordinates[index];
-    if (index > 0) {
-      // renderRoute(map, coordinates[index - 1].position, coordinate.position);
-    }
-    // panMap(coordinate.position);
-    // await delay(700);
-
-    renderMarker(map, coordinate);
-
-    // await delay(1200);
+    renderMarker(map, coordinate, {
+      animationDuration: TOTAL_ANIMATION,
+      markerSize: MARKER_SIZE * 2,
+      thresholdSize: MARKER_SIZE * 2,
+      labelMultiplier: 2,
+    });
   }
 };
 
-const MAX_ROTATION = 20;
-const MIN_ROTATION = -10;
-const STEP_ROTATION = 1;
-const STEP_TIME = 60;
-const ANIMATION_COUNT = 0;
-
-const animate = (map, value, dir, count, nextFunc) => {
+const animate = (map, value, dir, count) => {
   if (count > ANIMATION_COUNT) {
-    // nextFunc();
     return;
   }
   const nextValue = value + dir * STEP_ROTATION;
@@ -77,8 +61,5 @@ const animate = (map, value, dir, count, nextFunc) => {
     nextDir = -dir;
     count += 1;
   }
-  setTimeout(
-    animate.bind(null, map, nextValue, nextDir, count, nextFunc),
-    STEP_TIME,
-  );
+  setTimeout(animate.bind(null, map, nextValue, nextDir, count), STEP_TIME);
 };

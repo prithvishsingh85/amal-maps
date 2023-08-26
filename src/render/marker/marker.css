@@ -1,19 +1,40 @@
-.marker-label {
-  transform: translateY(-61px);
+.marker-label-1 {
+  transform: translate(25px, -26px);
   transition: all 0.2s;
 }
 
-.marker-label-large {
+.marker-label-large-1 {
   transition: all 0.2s;
-  /* 
-  61px for marker size 120
-  81px for marker size 150 
-  120px for marker size 200
-  */
-  transform: translateY(-85px);
+  transform: translate(35px, -34px);
+}
+
+.marker-label-2 {
+  transform: translate(25px, -32px);
+  transition: all 0.2s;
+}
+
+.marker-label-large-2 {
+  transition: all 0.2s;
+  transform: translate(40px, -45px);
 }
 
 .marker-label-small {
   transition: all 0.2s;
   transform: translateY(-30px);
+}
+
+#info-window {
+  width: 100%;
+}
+
+.info-window-container {
+  padding: 5px;
+  text-align: center;
+  font-family: 'Syne, sans-serif';
+}
+.info-window-text {
+  font-size: 16px;
+}
+.info-window-link {
+  font-size: 14px;
 }

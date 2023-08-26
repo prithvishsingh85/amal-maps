@@ -1,5 +1,5 @@
 import { onZoomChangeEvent } from './mapEvents';
-import { mapOptions } from '../../options/mapOptions';
+import { mapOptions } from '../../options';
 
 let mapElement;
 
