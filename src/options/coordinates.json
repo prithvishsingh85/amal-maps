@@ -13,9 +13,33 @@
           "lng": -71.06349451191598
         },
         "info": {
-          "text": "check",
-          "linkText": "check",
-          "url": "https://walkwithamal.org"
+          "text": "",
+          "linkText": "",
+          "url": ""
+        }
+      },
+      {
+        "title": "Boston City",
+        "position": {
+          "lat": 42.36246722084178,
+          "lng": -71.06349451191598
+        },
+        "info": {
+          "text": "",
+          "linkText": "",
+          "url": ""
+        }
+      },
+      {
+        "title": "Boston City",
+        "position": {
+          "lat": 42.36246722084178,
+          "lng": -71.06349451191598
+        },
+        "info": {
+          "text": "",
+          "linkText": "",
+          "url": ""
         }
       }
     ]
