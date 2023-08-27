@@ -28,9 +28,9 @@
 }
 
 .info-window-container {
-  padding: 5px;
+  padding: 0px;
   text-align: center;
-  font-family: 'Syne, sans-serif';
+  font-family: Syne, sans-serif;
 }
 .info-window-text {
   font-size: 16px;

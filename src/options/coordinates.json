@@ -1,56 +1,20 @@
 [
   {
-    "title": "Boston, Massachusetts",
+    "title": "Boston",
     "position": {
       "lat": 42.36246722084178,
       "lng": -71.06349451191598
     },
     "cityCoordinates": [
       {
-        "title": "Boston, Massachusetts",
+        "title": "Boston City",
         "position": {
           "lat": 42.36246722084178,
           "lng": -71.06349451191598
         },
         "info": {
-          "text": "Boston, Massachusetts",
-          "linkText": "Visit Event Details",
-          "url": "https://walkwithamal.org"
-        }
-      },
-      {
-        "title": "Prudential Tower",
-        "position": {
-          "lat": 42.348706,
-          "lng": -71.082779
-        },
-        "info": {
-          "text": null,
-          "linkText": "Visit Event Details",
-          "url": "https://walkwithamal.org"
-        }
-      },
-      {
-        "title": "Fenway Park",
-        "position": {
-          "lat": 42.346676,
-          "lng": -71.097218
-        },
-        "info": {
-          "text": null,
-          "linkText": "Visit Event Details",
-          "url": "https://walkwithamal.org"
-        }
-      },
-      {
-        "title": "Boston University",
-        "position": {
-          "lat": 42.3505,
-          "lng": -71.1054
-        },
-        "info": {
-          "text": null,
-          "linkText": "Visit Event Details",
+          "text": "check",
+          "linkText": "check",
           "url": "https://walkwithamal.org"
         }
       }
@@ -61,251 +25,755 @@
     "position": {
       "lat": 42.4939,
       "lng": -72.8086
-    }
+    },
+    "cityCoordinates": [
+      {
+        "title": "Ashfield, Massachusetts City",
+        "position": {
+          "lat": 42.4939,
+          "lng": -72.8086
+        },
+        "info": {
+          "text": "",
+          "linkText": "",
+          "url": ""
+        }
+      }
+    ]
   },
   {
     "title": "North Adams, Massachusetts",
     "position": {
       "lat": 42.7006,
       "lng": -73.1082
-    }
+    },
+    "cityCoordinates": [
+      {
+        "title": "North Adams, Massachusetts City",
+        "position": {
+          "lat": 42.7006,
+          "lng": -73.1082
+        },
+        "info": {
+          "text": "",
+          "linkText": "",
+          "url": ""
+        }
+      }
+    ]
   },
   {
     "title": "Hartford, Connecticut",
     "position": {
       "lat": 41.7658,
       "lng": -72.6734
-    }
+    },
+    "cityCoordinates": [
+      {
+        "title": "Hartford, Connecticut City",
+        "position": {
+          "lat": 41.7658,
+          "lng": -72.6734
+        },
+        "info": {
+          "text": "",
+          "linkText": "",
+          "url": ""
+        }
+      }
+    ]
   },
   {
     "title": "Philadelphia, Pennsylvania",
     "position": {
       "lat": 39.9526,
       "lng": -75.1652
-    }
+    },
+    "cityCoordinates": [
+      {
+        "title": "Philadelphia, Pennsylvania City",
+        "position": {
+          "lat": 39.9526,
+          "lng": -75.1652
+        },
+        "info": {
+          "text": "",
+          "linkText": "",
+          "url": ""
+        }
+      }
+    ]
   },
   {
     "title": "Baltimore, Maryland",
     "position": {
       "lat": 39.2904,
       "lng": -76.6122
-    }
+    },
+    "cityCoordinates": [
+      {
+        "title": "Baltimore, Maryland City",
+        "position": {
+          "lat": 39.2904,
+          "lng": -76.6122
+        },
+        "info": {
+          "text": "",
+          "linkText": "",
+          "url": ""
+        }
+      }
+    ]
   },
   {
     "title": "Washington, D.C.",
     "position": {
       "lat": 38.9072,
       "lng": -77.0369
-    }
+    },
+    "cityCoordinates": [
+      {
+        "title": "Washington, D.C. City",
+        "position": {
+          "lat": 38.9072,
+          "lng": -77.0369
+        },
+        "info": {
+          "text": "",
+          "linkText": "",
+          "url": ""
+        }
+      }
+    ]
   },
   {
     "title": "Pittsburgh, Pennsylvania",
     "position": {
       "lat": 40.4406,
       "lng": -79.9959
-    }
+    },
+    "cityCoordinates": [
+      {
+        "title": "Pittsburgh, Pennsylvania City",
+        "position": {
+          "lat": 40.4406,
+          "lng": -79.9959
+        },
+        "info": {
+          "text": "",
+          "linkText": "",
+          "url": ""
+        }
+      }
+    ]
   },
   {
     "title": "Columbus, Ohio",
     "position": {
       "lat": 39.9612,
       "lng": -82.9988
-    }
+    },
+    "cityCoordinates": [
+      {
+        "title": "Columbus, Ohio City",
+        "position": {
+          "lat": 39.9612,
+          "lng": -82.9988
+        },
+        "info": {
+          "text": "",
+          "linkText": "",
+          "url": ""
+        }
+      }
+    ]
   },
   {
     "title": "Cincinnati, Ohio",
     "position": {
       "lat": 39.1031,
       "lng": -84.512
-    }
+    },
+    "cityCoordinates": [
+      {
+        "title": "Cincinnati, Ohio City",
+        "position": {
+          "lat": 39.1031,
+          "lng": -84.512
+        },
+        "info": {
+          "text": "",
+          "linkText": "",
+          "url": ""
+        }
+      }
+    ]
   },
   {
     "title": "Akron, Ohio",
     "position": {
       "lat": 41.0814,
       "lng": -81.519
-    }
+    },
+    "cityCoordinates": [
+      {
+        "title": "Akron, Ohio City",
+        "position": {
+          "lat": 41.0814,
+          "lng": -81.519
+        },
+        "info": {
+          "text": "",
+          "linkText": "",
+          "url": ""
+        }
+      }
+    ]
   },
   {
     "title": "Dearborn, Michigan",
     "position": {
       "lat": 42.3223,
       "lng": -83.1763
-    }
+    },
+    "cityCoordinates": [
+      {
+        "title": "Dearborn, Michigan City",
+        "position": {
+          "lat": 42.3223,
+          "lng": -83.1763
+        },
+        "info": {
+          "text": "",
+          "linkText": "",
+          "url": ""
+        }
+      }
+    ]
   },
   {
     "title": "Detroit/Dearborn, Michigan",
     "position": {
       "lat": 42.3314,
       "lng": -83.0458
-    }
+    },
+    "cityCoordinates": [
+      {
+        "title": "Detroit/Dearborn, Michigan City",
+        "position": {
+          "lat": 42.3314,
+          "lng": -83.0458
+        },
+        "info": {
+          "text": "",
+          "linkText": "",
+          "url": ""
+        }
+      }
+    ]
   },
   {
     "title": "Flint, Michigan",
     "position": {
       "lat": 43.0125,
       "lng": -83.6875
-    }
+    },
+    "cityCoordinates": [
+      {
+        "title": "Flint, Michigan City",
+        "position": {
+          "lat": 43.0125,
+          "lng": -83.6875
+        },
+        "info": {
+          "text": "",
+          "linkText": "",
+          "url": ""
+        }
+      }
+    ]
   },
   {
     "title": "Ann Arbor, Michigan",
     "position": {
       "lat": 42.2808,
       "lng": -83.743
-    }
+    },
+    "cityCoordinates": [
+      {
+        "title": "Ann Arbor, Michigan City",
+        "position": {
+          "lat": 42.2808,
+          "lng": -83.743
+        },
+        "info": {
+          "text": "",
+          "linkText": "",
+          "url": ""
+        }
+      }
+    ]
   },
   {
     "title": "Chicago, Illinois",
     "position": {
       "lat": 41.8781,
       "lng": -87.6298
-    }
+    },
+    "cityCoordinates": [
+      {
+        "title": "Chicago, Illinois City",
+        "position": {
+          "lat": 41.8781,
+          "lng": -87.6298
+        },
+        "info": {
+          "text": "",
+          "linkText": "",
+          "url": ""
+        }
+      }
+    ]
   },
   {
     "title": "St Louis, Missouri",
     "position": {
       "lat": 38.627,
       "lng": -90.1994
-    }
+    },
+    "cityCoordinates": [
+      {
+        "title": "St Louis, Missouri City",
+        "position": {
+          "lat": 38.627,
+          "lng": -90.199
+        },
+        "info": {
+          "text": "",
+          "linkText": "",
+          "url": ""
+        }
+      }
+    ]
   },
   {
     "title": "Memphis, Tennessee",
     "position": {
       "lat": 35.1495,
       "lng": -90.049
-    }
+    },
+    "cityCoordinates": [
+      {
+        "title": "Memphis, Tennessee City",
+        "position": {
+          "lat": 35.1495,
+          "lng": -90.049
+        },
+        "info": {
+          "text": "",
+          "linkText": "",
+          "url": ""
+        }
+      }
+    ]
   },
   {
     "title": "Nashville, Tennessee",
     "position": {
       "lat": 36.1627,
       "lng": -86.7816
-    }
+    },
+    "cityCoordinates": [
+      {
+        "title": "Nashville, Tennessee City",
+        "position": {
+          "lat": 36.1627,
+          "lng": -86.7816
+        },
+        "info": {
+          "text": "",
+          "linkText": "",
+          "url": ""
+        }
+      }
+    ]
   },
   {
     "title": "Chattanooga, Tennessee",
     "position": {
       "lat": 35.0456,
       "lng": -85.3097
-    }
+    },
+    "cityCoordinates": [
+      {
+        "title": "Chattanooga, Tennessee City",
+        "position": {
+          "lat": 35.0456,
+          "lng": -85.3097
+        },
+        "info": {
+          "text": "",
+          "linkText": "",
+          "url": ""
+        }
+      }
+    ]
   },
   {
     "title": "Atlanta, Georgia",
     "position": {
       "lat": 33.749,
       "lng": -84.388
-    }
+    },
+    "cityCoordinates": [
+      {
+        "title": "Atlanta, Georgia City",
+        "position": {
+          "lat": 33.749,
+          "lng": -84.388
+        },
+        "info": {
+          "text": "",
+          "linkText": "",
+          "url": ""
+        }
+      }
+    ]
   },
   {
     "title": "Birmingham, Alabama",
     "position": {
       "lat": 33.5207,
       "lng": -86.8025
-    }
+    },
+    "cityCoordinates": [
+      {
+        "title": "Birmingham, Alabama City",
+        "position": {
+          "lat": 33.5207,
+          "lng": -86.8025
+        },
+        "info": {
+          "text": "",
+          "linkText": "",
+          "url": ""
+        }
+      }
+    ]
   },
   {
     "title": "Montgomery, Alabama",
     "position": {
       "lat": 32.3792,
       "lng": -86.3077
-    }
+    },
+    "cityCoordinates": [
+      {
+        "title": "Montgomery, Alabama City",
+        "position": {
+          "lat": 32.3792,
+          "lng": -86.3077
+        },
+        "info": {
+          "text": "",
+          "linkText": "",
+          "url": ""
+        }
+      }
+    ]
   },
   {
     "title": "Selma, Alabama",
     "position": {
       "lat": 32.4074,
       "lng": -87.0211
-    }
+    },
+    "cityCoordinates": [
+      {
+        "title": "Selma, Alabama City",
+        "position": {
+          "lat": 32.4074,
+          "lng": -87.0211
+        },
+        "info": {
+          "text": "",
+          "linkText": "",
+          "url": ""
+        }
+      }
+    ]
   },
   {
     "title": "New Orleans, Louisiana",
     "position": {
       "lat": 29.9511,
       "lng": -90.0715
-    }
+    },
+    "cityCoordinates": [
+      {
+        "title": "New Orleans, Louisiana City",
+        "position": {
+          "lat": 29.9511,
+          "lng": -90.0715
+        },
+        "info": {
+          "text": "",
+          "linkText": "",
+          "url": ""
+        }
+      }
+    ]
   },
   {
     "title": "Lafayette, Louisiana",
     "position": {
       "lat": 30.2241,
       "lng": -92.0198
-    }
+    },
+    "cityCoordinates": [
+      {
+        "title": "Lafayette, Louisiana City",
+        "position": {
+          "lat": 30.2241,
+          "lng": -92.0198
+        },
+        "info": {
+          "text": "",
+          "linkText": "",
+          "url": ""
+        }
+      }
+    ]
   },
   {
     "title": "Houston, Texas",
     "position": {
       "lat": 29.7604,
       "lng": -95.3698
-    }
+    },
+    "cityCoordinates": [
+      {
+        "title": "Houston, Texas City",
+        "position": {
+          "lat": 29.7604,
+          "lng": -95.3698
+        },
+        "info": {
+          "text": "",
+          "linkText": "",
+          "url": ""
+        }
+      }
+    ]
   },
   {
     "title": "Austin, Texas",
     "position": {
       "lat": 30.2672,
       "lng": -97.7431
-    }
+    },
+    "cityCoordinates": [
+      {
+        "title": "Austin, Texas City",
+        "position": {
+          "lat": 30.2672,
+          "lng": -97.7431
+        },
+        "info": {
+          "text": "",
+          "linkText": "",
+          "url": ""
+        }
+      }
+    ]
   },
   {
     "title": "San Antonio, Texas",
     "position": {
       "lat": 29.4241,
       "lng": -98.4936
-    }
+    },
+    "cityCoordinates": [
+      {
+        "title": "San Antonio, Texas City",
+        "position": {
+          "lat": 29.4241,
+          "lng": -98.4936
+        },
+        "info": {
+          "text": "",
+          "linkText": "",
+          "url": ""
+        }
+      }
+    ]
   },
   {
     "title": "Uvalde, Texas",
     "position": {
       "lat": 29.2097,
       "lng": -99.7862
-    }
+    },
+    "cityCoordinates": [
+      {
+        "title": "Uvalde, Texas City",
+        "position": {
+          "lat": 29.2097,
+          "lng": -99.7862
+        },
+        "info": {
+          "text": "",
+          "linkText": "",
+          "url": ""
+        }
+      }
+    ]
   },
   {
     "title": "Marfa, Texas",
     "position": {
       "lat": 30.3095,
       "lng": -104.0205
-    }
+    },
+    "cityCoordinates": [
+      {
+        "title": "Marfa, Texas City",
+        "position": {
+          "lat": 30.3095,
+          "lng": -104.02
+        },
+        "info": {
+          "text": "",
+          "linkText": "",
+          "url": ""
+        }
+      }
+    ]
   },
   {
     "title": "El Paso, Texas",
     "position": {
       "lat": 31.7619,
       "lng": -106.485
-    }
+    },
+    "cityCoordinates": [
+      {
+        "title": "El Paso, Texas City",
+        "position": {
+          "lat": 31.7619,
+          "lng": -106.485
+        },
+        "info": {
+          "text": "",
+          "linkText": "",
+          "url": ""
+        }
+      }
+    ]
   },
   {
     "title": "Nogales, Arizona",
     "position": {
       "lat": 31.3404,
       "lng": -110.9343
-    }
+    },
+    "cityCoordinates": [
+      {
+        "title": "Nogales, Arizona City",
+        "position": {
+          "lat": 31.3404,
+          "lng": -110.934
+        },
+        "info": {
+          "text": "",
+          "linkText": "",
+          "url": ""
+        }
+      }
+    ]
   },
   {
     "title": "Tucson, Arizona",
     "position": {
       "lat": 32.2226,
       "lng": -110.9747
-    }
+    },
+    "cityCoordinates": [
+      {
+        "title": "Tucson, Arizona City",
+        "position": {
+          "lat": 32.2226,
+          "lng": -110.974
+        },
+        "info": {
+          "text": "",
+          "linkText": "",
+          "url": ""
+        }
+      }
+    ]
   },
   {
     "title": "Joshua Tree, California",
     "position": {
       "lat": 34.1347,
       "lng": -116.3131
-    }
+    },
+    "cityCoordinates": [
+      {
+        "title": "Joshua Tree, California City",
+        "position": {
+          "lat": 34.1347,
+          "lng": -116.313
+        },
+        "info": {
+          "text": "",
+          "linkText": "",
+          "url": ""
+        }
+      }
+    ]
   },
   {
     "title": "Los Angeles, California",
     "position": {
       "lat": 34.0522,
       "lng": -118.2437
-    }
+    },
+    "cityCoordinates": [
+      {
+        "title": "Los Angeles, California City",
+        "position": {
+          "lat": 34.0522,
+          "lng": -118.243
+        },
+        "info": {
+          "text": "",
+          "linkText": "",
+          "url": ""
+        }
+      }
+    ]
   },
   {
     "title": "San Diego, California",
     "position": {
       "lat": 32.7157,
       "lng": -117.1611
-    }
+    },
+    "cityCoordinates": [
+      {
+        "title": "San Diego, California City",
+        "position": {
+          "lat": 32.7157,
+          "lng": -117.161
+        },
+        "info": {
+          "text": "",
+          "linkText": "",
+          "url": ""
+        }
+      }
+    ]
   }
 ]

@@ -7,6 +7,7 @@ export const openInfoWindow = (map, marker, coordinate) => {
   const infoWindow = createInfoWindow(coordinate);
   closeInfoWindow();
   currentInfoWindow = infoWindow;
+  if (!infoWindow) return null;
   infoWindow.open({
     anchor: marker,
     map,
@@ -24,6 +25,7 @@ const createEventListeners = () => {
 
 export const createInfoWindow = (coordinate) => {
   const { text, url, linkText } = coordinate.info;
+  if (!(text || linkText)) return null;
   const contentString = `
     <div id="info-window">
       <div class="info-window-container">
