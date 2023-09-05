@@ -29,6 +29,11 @@ export const createInfoWindow = (coordinate) => {
   const contentString = `
     <div id="info-window">
       <div class="info-window-container">
+        ${
+          coordinate.title
+            ? `<p class="info-window-title">${coordinate.title}</p>`
+            : ''
+        }
         ${text ? `<p class="info-window-text">${text}<p>` : ''}
         ${
           linkText && url

@@ -39,10 +39,11 @@ export const renderLabel = (text, isLarge, multiplier = 1) => {
   return {
     text,
     fontFamily: 'Syne, sans-serif',
+    fontWeight: '700',
     className: isLarge
       ? `marker-label-large-${multiplier}`
       : `marker-label-${multiplier}`,
-    fontSize: isLarge ? `18px` : `14px`,
+    fontSize: isLarge ? `22px` : `20px`,
   };
 };
 
