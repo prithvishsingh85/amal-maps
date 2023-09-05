@@ -7,62 +7,110 @@
     },
     "cityCoordinates": [
       {
-        "title": "Welcome to Boston",
+        "title": "WELCOME TO BOSTON",
         "position": {
           "lat": 42.353544043463884,
           "lng": -71.05461967638794
         },
         "info": {
-          "text": "Thursday September 7th, 4:00 pm <br> Dewey Square",
-          "linkText": "More Details",
+          "text": "Thursday, Sept 7th, 4:00 pm <br> Dewey Square",
+          "linkText": "Event Details",
           "url": "https://walkwithamal.org/events/welcome-to-boston/"
         }
       },
       {
-        "title": "Finding friends in Harvard Yard",
+        "title": "FINDING FRIENDS IN HARVARD YARD",
         "position": {
           "lat": 42.37594046154953,
           "lng": -71.11674117703193
         },
         "info": {
-          "text": "Thursday September 7th, 7:00 pm <br> Harvard Science Center Plaza",
-          "linkText": "More Details",
+          "text": "Thursday, Sept 7th, 7:00 pm <br> Harvard Science Center Plaza",
+          "linkText": "Event Details",
           "url": "https://walkwithamal.org/events/finding-friends-in-harvard-yard/"
         }
       },
       {
-        "title": "Countdown to Kindergarten",
+        "title": "DON'T LET ME SLEEP ALONE",
+        "position": {
+          "lat": 42.35223023374919,
+          "lng": -71.05752420337598
+        },
+        "info": {
+          "text": "Thursday, Sept 7th, 9:00 pm <br> 181 Essex St",
+          "linkText": "Event Details",
+          "url": "https://walkwithamal.org/events/dont-let-me-sleep-alone/"
+        }
+      },
+      {
+        "title": "COUNTDOWN TO KINDERGARTEN",
         "position": {
           "lat": 42.37801323335604,
           "lng": -71.02833342056351
         },
         "info": {
-          "text": "Friday September 8th, 12:00 pm <br> East Boston Public Library",
-          "linkText": "More Details",
+          "text": "Friday, Sept 8th, 12:00 pm <br> East Boston Public Library",
+          "linkText": "Event Details",
           "url": "https://walkwithamal.org/events/countdown-to-kindergarten/"
         }
       },
       {
-        "title": "When migrants meet",
+        "title": "FIND A SAFE HAVEN",
+        "position": {
+          "lat": 42.37511534140258,
+          "lng": -71.0396170880336
+        },
+        "info": {
+          "text": "Friday, Sept 8th, 6:30 pm <br> Central Square Park",
+          "linkText": "Event Details",
+          "url": "https://walkwithamal.org/events/find-a-safe-haven/"
+        }
+      },
+      {
+        "title": "THINGS MY MOTHER WHISPERED",
+        "position": {
+          "lat": 42.35687846380029,
+          "lng": -71.06020308803434
+        },
+        "info": {
+          "text": "Friday, Sept 8th, 8:30 pm <br> Corner of Bromfield St & Province Street",
+          "linkText": "Event Details",
+          "url": "https://walkwithamal.org/events/things-my-mother-whispered/"
+        }
+      },
+      {
+        "title": "WHEN MIGRANTS MEET",
         "position": {
           "lat": 42.3142505086815,
           "lng": -71.09578537638967
         },
         "info": {
-          "text": "Saturday September 9th, 11:00 am <br> Eagleston Square Branch of the Boston Library",
-          "linkText": "More Details",
+          "text": "Saturday, Sept 9th, 11:00 am <br> Egleston Square Branch of the Boston Library",
+          "linkText": "Event Details",
           "url": "https://walkwithamal.org/events/when-migrants-meet/"
         }
       },
       {
-        "title": "Ceremonial first pitch",
+        "title": "MARVELOUS MARIPOSA",
+        "position": {
+          "lat": 42.36826165326179,
+          "lng": -71.03800516104596
+        },
+        "info": {
+          "text": "Saturday, Sept 9th, 1:00 pm <br> Corner of Orleans St & Sumner St",
+          "linkText": "Event Details",
+          "url": "https://walkwithamal.org/events/marvelous-mariposa/"
+        }
+      },
+      {
+        "title": "CEREMONIAL FIRST PITCH",
         "position": {
           "lat": 42.34686667880615,
           "lng": -71.09717488803487
         },
         "info": {
-          "text": "Saturday September 9th, 3:30 pm <br> Fenway Park",
-          "linkText": "More Details",
+          "text": "Saturday, Sept 9th, 3:30 pm <br> Fenway Park",
+          "linkText": "Event Details",
           "url": "https://walkwithamal.org/events/ceremonial-first-pitch/"
         }
       }
@@ -76,14 +124,14 @@
     },
     "cityCoordinates": [
       {
-        "title": "A place to plant, a place to grow",
+        "title": "A PLACE TO PLANT, A PLACE TO GROW",
         "position": {
           "lat": 42.526001892428006,
           "lng": -72.79040651131989
         },
         "info": {
-          "text": "Sunday September 10th, 12:30 pm <br> Ashfield Town Common",
-          "linkText": "More Details",
+          "text": "Sunday, Sept 10th, 12:30 pm <br> Ashfield Town Common",
+          "linkText": "Event Details",
           "url": "https://walkwithamal.org/events/a-place-to-plant-a-place-to-grow/"
         }
       }
@@ -97,14 +145,14 @@
     },
     "cityCoordinates": [
       {
-        "title": "Mystical traces",
+        "title": "MYSTICAL TRACES",
         "position": {
           "lat": 42.70208356885659,
           "lng": -73.11586981685402
         },
         "info": {
-          "text": "Sunday September 10th, 3:00 pm <br> Mass MoCA",
-          "linkText": "More Details",
+          "text": "Sunday, Sept 10th, 3:00 pm <br> Mass MoCA",
+          "linkText": "Event Details",
           "url": "https://walkwithamal.org/events/mystical-traces/"
         }
       }
@@ -118,14 +166,14 @@
     },
     "cityCoordinates": [
       {
-        "title": "Bushy tailed",
+        "title": "BUSHY TAILED",
         "position": {
           "lat": 41.7640189938823,
           "lng": -72.68054572721208
         },
         "info": {
-          "text": "Tuesday September 12th, 1:00 pm <br> Intersection of Elm Street and Trinity Street",
-          "linkText": "More Details",
+          "text": "Tuesday, Sept 12th, 1:00 pm <br> Intersection of Elm Street and Trinity Street",
+          "linkText": "Event Details",
           "url": "https://walkwithamal.org/events/bushy-tailed/"
         }
       }
@@ -139,50 +187,50 @@
     },
     "cityCoordinates": [
       {
-        "title": "Searching for home",
+        "title": "SEARCHING FOR HOME",
         "position": {
           "lat": 39.93343338233867,
           "lng": -75.16481997464733
         },
         "info": {
-          "text": "Wednesday September 13th, 1:30 pm <br> Columbus Park",
-          "linkText": "More Details",
+          "text": "Wednesday, Sept 13th, 1:30 pm <br> Columbus Park",
+          "linkText": "Event Details",
           "url": "https://walkwithamal.org/events/searching-for-home/"
         }
       },
       {
-        "title": "Will you just let me sleep",
+        "title": "WILL YOU JUST LET ME SLEEP",
         "position": {
           "lat": 39.94508912991739,
           "lng": -75.16562530348219
         },
         "info": {
-          "text": "Wednesday September 13th, 7:00 pm <br> 480 Broad St",
-          "linkText": "More Details",
+          "text": "Wednesday, Sept 13th, 7:00 pm <br> 480 Broad St",
+          "linkText": "Event Details",
           "url": "https://walkwithamal.org/events/will-you-just-let-me-sleep/"
         }
       },
       {
-        "title": "A moment of peace",
+        "title": "A MOMENT OF SLEEP",
         "position": {
           "lat": 39.9753986279718,
           "lng": -75.22626053046895
         },
         "info": {
-          "text": "Thursday September 14th, 11:00 am <br> One Art Community Center",
-          "linkText": "More Details",
+          "text": "Thursday, Sept 14th, 11:00 am <br> One Art Community Center",
+          "linkText": "Event Details",
           "url": "https://walkwithamal.org/events/a-moment-of-peace/"
         }
       },
       {
-        "title": "Chasing LOVE",
+        "title": "CHASING LOVE",
         "position": {
           "lat": 39.96177326825243,
           "lng": -75.1744006378589
         },
         "info": {
-          "text": "Thursday September 14th, 4:00 pm <br> The Thinker Sculpture at the Rodin Museum",
-          "linkText": "More Details",
+          "text": "Thursday, Sept 14th, 4:00 pm <br> The Thinker Sculpture at the Rodin Museum",
+          "linkText": "Event Details",
           "url": "https://walkwithamal.org/events/chasing-love/"
         }
       }
@@ -196,50 +244,50 @@
     },
     "cityCoordinates": [
       {
-        "title": "Off to meet the Mayor",
+        "title": "OFF TO MEET THE MAYOR",
         "position": {
           "lat": 39.29103014818968,
           "lng": -76.61058071885144
         },
         "info": {
-          "text": "Friday September 15th, 4:30 pm <br> Baltimore City Hall",
-          "linkText": "More Details",
+          "text": "Friday, Sept 15th, 4:30 pm <br> Baltimore City Hall",
+          "linkText": "Event Details",
           "url": "https://walkwithamal.org/events/off-to-meet-the-mayor/"
         }
       },
       {
-        "title": "Where’s my ice cream?",
+        "title": "WHERE'S MY ICE CREAM?",
         "position": {
           "lat": 39.28149568692799,
           "lng": -76.6093797458398
         },
         "info": {
-          "text": "Saturday September 16th, 11:00 pm <br> Rash Field",
-          "linkText": "More Details",
+          "text": "Saturday, Sept 16th, 11:00 pm <br> Rash Field",
+          "linkText": "Event Details",
           "url": "https://walkwithamal.org/events/wheres-my-ice-cream/"
         }
       },
       {
-        "title": "Separated, together",
+        "title": "SEPERATED, TOGETHER",
         "position": {
           "lat": 39.289586130500645,
           "lng": -76.58449682640338
         },
         "info": {
-          "text": "Saturday September 16th, 2:00 pm <br> Patterson Park",
-          "linkText": "More Details",
+          "text": "Saturday, Sept 16th, 2:00 pm <br> Patterson Park",
+          "linkText": "Event Details",
           "url": "https://walkwithamal.org/events/separated-together/"
         }
       },
       {
-        "title": "Look what grows here",
+        "title": "LOOK WHAT GROWS HERE",
         "position": {
           "lat": 39.30082297994917,
           "lng": -76.63025003160345
         },
         "info": {
-          "text": "Saturday September 16th, 4:30 pm <br> Robert C. Marshall Park",
-          "linkText": "More Details",
+          "text": "Saturday, Sept 16th, 4:30 pm <br> Robert C. Marshall Park",
+          "linkText": "Event Details",
           "url": "https://walkwithamal.org/events/look-what-grows-here/"
         }
       }
@@ -253,38 +301,38 @@
     },
     "cityCoordinates": [
       {
-        "title": "I found a heavenly harvest",
+        "title": "I FOUND A HEAVENLY HARVEST",
         "position": {
           "lat": 38.865582145704934,
           "lng": -76.98970343236341
         },
         "info": {
-          "text": "Sunday September 17th, 11:30 am <br> Big Chair",
-          "linkText": "More Details",
+          "text": "Sunday, Sept 17th, 11:30 am <br> Big Chair",
+          "linkText": "Event Details",
           "url": "https://walkwithamal.org/events/i-found-a-heavenly-harvest/"
         }
       },
       {
-        "title": "The sounds of hope",
+        "title": "The SOUNDS OF HOPE",
         "position": {
           "lat": 38.90148601283094,
           "lng": -77.03656863236174
         },
         "info": {
-          "text": "Sunday September 17th, 3:00 pm <br> Black Lives Matter Plaza",
-          "linkText": "More Details",
+          "text": "Sunday, Sept 17th, 3:00 pm <br> Black Lives Matter Plaza",
+          "linkText": "Event Details",
           "url": "https://walkwithamal.org/events/the-sounds-of-hope/"
         }
       },
       {
-        "title": "Little shoes, big journeys",
+        "title": "LITTLE SHOES, BIG JOURNEY",
         "position": {
           "lat": 38.89591631053743,
           "lng": -77.03060502823972
         },
         "info": {
-          "text": "Tuesday September 19th, 4:00 pm <br> Freedom Plaza",
-          "linkText": "More Details",
+          "text": "Tuesday, Sept 19th, 4:00 pm <br> Freedom Plaza",
+          "linkText": "Event Details",
           "url": "https://walkwithamal.org/events/little-shoes-big-journeys/"
         }
       }
@@ -298,14 +346,14 @@
     },
     "cityCoordinates": [
       {
-        "title": "I love to learn",
+        "title": "I LOVE TO LEARN",
         "position": {
           "lat": 38.94003015041638,
           "lng": -76.93101251886624
         },
         "info": {
-          "text": "Tuesday September 19th, 10:00 am <br> International School at Langley Park",
-          "linkText": "More Details",
+          "text": "Tuesday, Sept 19th, 10:00 am <br> International School at Langley Park",
+          "linkText": "Event Details",
           "url": "https://walkwithamal.org/events/i-love-to-learn/"
         }
       }
@@ -319,62 +367,62 @@
     },
     "cityCoordinates": [
       {
-        "title": "Take the “Jitney” train",
+        "title": "TAKE THE “JITNEY” TRAIN",
         "position": {
           "lat": 40.44307129325435,
           "lng": -80.00147828894927
         },
         "info": {
-          "text": "Wednesday September 20th, 12:00 pm <br> Public Theater / O’Reilly Theater",
-          "linkText": "More Details",
+          "text": "Wednesday, Sept 20th, 12:00 pm <br> Public Theater / O’Reilly Theater",
+          "linkText": "Event Details",
           "url": "https://walkwithamal.org/events/take-the-jitney-train/"
         }
       },
       {
-        "title": "Ghosts in the furnace",
+        "title": "GHOSTS IN THE FURNACE",
         "position": {
           "lat": 40.414178264119585,
           "lng": -79.88980483229727
         },
         "info": {
-          "text": "Wednesday September 20th, 7:00 pm <br> Carrie Furnace",
-          "linkText": "More Details",
+          "text": "Wednesday, Sept 20th, 7:00 pm <br> Carrie Furnace",
+          "linkText": "Event Details",
           "url": "https://walkwithamal.org/events/ghosts-in-the-furnace/"
         }
       },
       {
-        "title": "I hereby declare that I’m only 10",
+        "title": "I HEREBY DECLARE THAT I'M ONLY 10",
         "position": {
           "lat": 40.43854411524696,
           "lng": -79.99736011880219
         },
         "info": {
-          "text": "Thursday September 21st, 10:00 am <br> City-County Building",
-          "linkText": "More Details",
+          "text": "Thursday, Sept 21st, 10:00 am <br> City-County Building",
+          "linkText": "Event Details",
           "url": "https://walkwithamal.org/events/i-hereby-declare-that-im-only-10/"
         }
       },
       {
-        "title": "Play in peace",
+        "title": "PLAY IN PEACE",
         "position": {
           "lat": 40.44535234524447,
           "lng": -80.01184251880194
         },
         "info": {
-          "text": "Thursday September 21st, 12:00 pm <br> Great Lawn",
-          "linkText": "More Details",
+          "text": "Thursday, Sept 21st, 12:00 pm <br> Great Lawn",
+          "linkText": "Event Details",
           "url": "https://walkwithamal.org/events/play-in-peace/"
         }
       },
       {
-        "title": "Imagination is my playground",
+        "title": "IMAGINATION IS MY PLAYGROUND",
         "position": {
           "lat": 40.436138294129535,
           "lng": -79.8900434476377
         },
         "info": {
-          "text": "Thursday September 21st, 5:00 pm <br> Whitney Park",
-          "linkText": "More Details",
+          "text": "Thursday, Sept 21st, 5:00 pm <br> Whitney Park",
+          "linkText": "Event Details",
           "url": "https://walkwithamal.org/events/imagination-is-my-playground/"
         }
       }
@@ -388,14 +436,14 @@
     },
     "cityCoordinates": [
       {
-        "title": "Relentless beat",
+        "title": "RELENTLESS BEAT",
         "position": {
           "lat": 39.96017379000992,
           "lng": -83.00482733231688
         },
         "info": {
-          "text": "Friday September 22nd, 6:00 pm <br> Genoa Park",
-          "linkText": "More Details",
+          "text": "Friday, Sept 22nd, 6:00 pm <br> Genoa Park",
+          "linkText": "Event Details",
           "url": "https://walkwithamal.org/events/relentless-beat/"
         }
       }
@@ -409,14 +457,14 @@
     },
     "cityCoordinates": [
       {
-        "title": "Steams connecting",
+        "title": "STREAMS CONNECTING",
         "position": {
           "lat": 39.098045878560306,
           "lng": -84.50448825020942
         },
         "info": {
-          "text": "Friday September 22nd, 3:00 pm <br> Heritage Bank Center Plaza",
-          "linkText": "More Details",
+          "text": "Friday, Sept 22nd, 3:00 pm <br> Heritage Bank Center Plaza",
+          "linkText": "Event Details",
           "url": "https://walkwithamal.org/events/steams-connecting/"
         }
       }
@@ -430,14 +478,14 @@
     },
     "cityCoordinates": [
       {
-        "title": "Walls down",
+        "title": "WALLS DOWN",
         "position": {
           "lat": 41.09658343301174,
           "lng": -81.51097843042007
         },
         "info": {
-          "text": "Saturday September 23rd <br> Waters Park",
-          "linkText": "More Details",
+          "text": "Saturday, Sept 23rd, 2:00 pm <br> Waters Park",
+          "linkText": "Event Details",
           "url": "https://walkwithamal.org/events/walls-down/"
         }
       }
@@ -451,26 +499,26 @@
     },
     "cityCoordinates": [
       {
-        "title": "First day of school",
+        "title": "FIRST DAY OF SCHOOL",
         "position": {
           "lat": 42.280669303405546,
           "lng": -83.74019166104988
         },
         "info": {
-          "text": "Saturday September 23rd, 3:00 pm <br> North Quad",
-          "linkText": "More Details",
+          "text": "Saturday, Sept 23rd, 3:00 pm <br> North Quad",
+          "linkText": "Event Details",
           "url": "https://walkwithamal.org/events/first-day-of-school/"
         }
       },
       {
-        "title": "Let us light the way",
+        "title": "LET US LIGHT THE WAY",
         "position": {
           "lat": 42.28409178170269,
           "lng": -83.74661831872038
         },
         "info": {
-          "text": "Saturday September 23rd, 7:00 pm <br> Kerrytown Faqrmers Market",
-          "linkText": "More Details",
+          "text": "Saturday, Sept 23rd, 7:00 pm <br> Kerrytown Farmers Market",
+          "linkText": "Event Details",
           "url": "https://walkwithamal.org/events/let-us-light-the-way/"
         }
       }
@@ -484,15 +532,27 @@
     },
     "cityCoordinates": [
       {
-        "title": "These cars were made for driving",
+        "title": "THESE CARS WERE MADE FOR DRIVING",
         "position": {
-          "lat": 42.65742066880927,
-          "lng": -83.3878403947675
+          "lat": 42.46101684793423,
+          "lng": -83.13633600337101
         },
         "info": {
-          "text": "Sunday September 24th, 4:00 pm <br>",
-          "linkText": "More Details",
+          "text": "Sunday, Sept 24th, 3:00 pm <br> Funky Ferndale Art Fair",
+          "linkText": "Event Details",
           "url": "https://walkwithamal.org/events/these-cars-were-made-for-driving/"
+        }
+      },
+      {
+        "title": "LOST IN DETROIT",
+        "position": {
+          "lat": 42.33201757876208,
+          "lng": -83.04656514570618
+        },
+        "info": {
+          "text": "Sunday, Sept 24th, 6:30 pm <br> Campus Martius Park",
+          "linkText": "Event Details",
+          "url": ""
         }
       }
     ]
@@ -505,1021 +565,817 @@
     },
     "cityCoordinates": [
       {
-        "title": "Dancing in the streets",
+        "title": "DANCING IN THE STREETS",
         "position": {
           "lat": 42.343680335439124,
           "lng": -83.02812131903575
         },
         "info": {
-          "text": "Tuesday September 26th, Morning <br> Elmwood Park",
-          "linkText": "More Details",
+          "text": "Tuesday September 26th, 11:00 am <br> Elmwood Park",
+          "linkText": "Event Details",
           "url": "https://walkwithamal.org/events/dancing-in-the-streets/"
         }
       },
       {
-        "title": "Dearborn, Michigan City",
+        "title": "TAKE A SEAT",
         "position": {
-          "lat": 42.3223,
-          "lng": -83.1763
+          "lat": 42.32430018541407,
+          "lng": -83.08280766104794
         },
         "info": {
-          "text": "",
-          "linkText": "",
-          "url": ""
+          "text": "Wednesday, Sept 27th, 4:00 pm <br> Bagley Pedestrian Bridge",
+          "linkText": "Event Details",
+          "url": "https://walkwithamal.org/events/take-a-seat/"
         }
       },
       {
-        "title": "Dearborn, Michigan City",
+        "title": "WHEN THE SHADOWS GROW",
         "position": {
-          "lat": 42.3223,
-          "lng": -83.1763
+          "lat": 42.337572514941655,
+          "lng": -83.0246084610473
         },
         "info": {
-          "text": "",
-          "linkText": "",
-          "url": ""
+          "text": "Wednesday, Sept 27th, 8:30 pm <br> E Jefferson Ave & Dubois St.",
+          "linkText": "Event Details",
+          "url": "https://walkwithamal.org/events/when-the-shadows-grow/"
         }
       }
     ]
   },
   {
-    "title": "Detroit/Dearborn, Michigan",
+    "title": "DEARBORN, MI",
     "position": {
       "lat": 42.3314,
       "lng": -83.0458
     },
     "cityCoordinates": [
       {
-        "title": "Detroit/Dearborn, Michigan City",
+        "title": "AS CLOSE TO HOME",
         "position": {
           "lat": 42.3314,
           "lng": -83.0458
         },
         "info": {
-          "text": "",
-          "linkText": "",
-          "url": ""
-        }
-      },
-      {
-        "title": "Detroit/Dearborn, Michigan City",
-        "position": {
-          "lat": 42.3314,
-          "lng": -83.0458
-        },
-        "info": {
-          "text": "",
-          "linkText": "",
-          "url": ""
-        }
-      },
-      {
-        "title": "Detroit/Dearborn, Michigan City",
-        "position": {
-          "lat": 42.3314,
-          "lng": -83.0458
-        },
-        "info": {
-          "text": "",
-          "linkText": "",
-          "url": ""
+          "text": "Tuesday, Sept 26th <br> TBC",
+          "linkText": "Event Details",
+          "url": "https://walkwithamal.org/events/as-close-to-home/"
         }
       }
     ]
   },
   {
-    "title": "Flint, Michigan",
+    "title": "FLINT, MI",
     "position": {
       "lat": 43.0125,
       "lng": -83.6875
     },
     "cityCoordinates": [
       {
-        "title": "Flint, Michigan City",
+        "title": "I FOUND A MAGIC PORTAL",
         "position": {
-          "lat": 43.0125,
-          "lng": -83.6875
+          "lat": 43.021743166369646,
+          "lng": -83.67930787451006
         },
         "info": {
-          "text": "",
-          "linkText": "",
-          "url": ""
-        }
-      },
-      {
-        "title": "Flint, Michigan City",
-        "position": {
-          "lat": 43.0125,
-          "lng": -83.6875
-        },
-        "info": {
-          "text": "",
-          "linkText": "",
-          "url": ""
-        }
-      },
-      {
-        "title": "Flint, Michigan City",
-        "position": {
-          "lat": 43.0125,
-          "lng": -83.6875
-        },
-        "info": {
-          "text": "",
-          "linkText": "",
-          "url": ""
+          "text": "Tuesday, Sept 26th, 7:00 pm <br> Gloria Coles Flint Public Library ",
+          "linkText": "Event Details",
+          "url": "https://walkwithamal.org/events/i-found-a-magic-portal/"
         }
       }
     ]
   },
   {
-    "title": "Chicago, Illinois",
+    "title": "CHICAGO, IL",
     "position": {
       "lat": 41.8781,
       "lng": -87.6298
     },
     "cityCoordinates": [
       {
-        "title": "Chicago, Illinois City",
+        "title": "WHAT CITY, FRIENDS, IS THIS?",
         "position": {
-          "lat": 41.8781,
-          "lng": -87.6298
+          "lat": 41.891598924402395,
+          "lng": -87.6054558610674
         },
         "info": {
-          "text": "",
-          "linkText": "",
-          "url": ""
+          "text": "Thursday, Sept 28th, 5:30 pm <br> Chicago Shakespeare Theater",
+          "linkText": "Event Details",
+          "url": "https://walkwithamal.org/events/what-city-friends-is-this/"
         }
       },
       {
-        "title": "Chicago, Illinois City",
+        "title": "SYRIAN DREAM",
         "position": {
-          "lat": 41.8781,
-          "lng": -87.6298
+          "lat": 41.85610682870611,
+          "lng": -87.67282246106903
         },
         "info": {
-          "text": "",
-          "linkText": "",
-          "url": ""
+          "text": "Thursday, Sept 28th, 8:00 pm <br> National Museum of Mexican Art",
+          "linkText": "Event Details",
+          "url": "https://walkwithamal.org/events/syrian-dream/"
         }
       },
       {
-        "title": "Chicago, Illinois City",
+        "title": "BEST VIEW OF THE CITY",
         "position": {
           "lat": 41.8781,
           "lng": -87.6298
         },
         "info": {
-          "text": "",
-          "linkText": "",
-          "url": ""
+          "text": "Friday, Sept 29th, 7:00 pm <br> TBC",
+          "linkText": "Event Details",
+          "url": "https://walkwithamal.org/events/best-view-of-the-city/"
+        }
+      },
+      {
+        "title": "STONE SOUP",
+        "position": {
+          "lat": 41.97223546655843,
+          "lng": -87.64976391688707
+        },
+        "info": {
+          "text": "Saturday, Sept 30th, 10:30 am <br> Margate Park",
+          "linkText": "Event Details",
+          "url": "https://walkwithamal.org/events/stone-soup/"
+        }
+      },
+      {
+        "title": "DRIFT INTO SLEEP",
+        "position": {
+          "lat": 41.88253403925071,
+          "lng": -87.61940078990318
+        },
+        "info": {
+          "text": "Saturday, Sept 30th, 6:30 pm <br> Maggie Daley Park",
+          "linkText": "Event Details",
+          "url": "https://walkwithamal.org/events/drift-into-sleep/"
         }
       }
     ]
   },
   {
-    "title": "St Louis, Missouri",
+    "title": "ST. LOUIS, MO",
     "position": {
       "lat": 38.627,
       "lng": -90.1994
     },
     "cityCoordinates": [
       {
-        "title": "St Louis, Missouri City",
+        "title": "MEET ME IN ST. LOUIS",
         "position": {
-          "lat": 38.627,
-          "lng": -90.199
+          "lat": 38.625040626809465,
+          "lng": -90.18591019458236
         },
         "info": {
-          "text": "",
-          "linkText": "",
-          "url": ""
-        }
-      },
-      {
-        "title": "St Louis, Missouri City",
-        "position": {
-          "lat": 38.627,
-          "lng": -90.199
-        },
-        "info": {
-          "text": "",
-          "linkText": "",
-          "url": ""
-        }
-      },
-      {
-        "title": "St Louis, Missouri City",
-        "position": {
-          "lat": 38.627,
-          "lng": -90.199
-        },
-        "info": {
-          "text": "",
-          "linkText": "",
-          "url": ""
+          "text": "Sunday, Oct 1st, 12:30 pm <br> Gateway Arch",
+          "linkText": "Event Details",
+          "url": "https://walkwithamal.org/events/meet-me-in-st-louis/"
         }
       }
     ]
   },
   {
-    "title": "Memphis, Tennessee",
+    "title": "MEMPHIS, TN",
     "position": {
       "lat": 35.1495,
       "lng": -90.049
     },
     "cityCoordinates": [
       {
-        "title": "Memphis, Tennessee City",
+        "title": "CROSSTOWN CONNECTIONS",
         "position": {
-          "lat": 35.1495,
-          "lng": -90.049
+          "lat": 35.15230927176814,
+          "lng": -90.01408566134677
         },
         "info": {
-          "text": "",
-          "linkText": "",
-          "url": ""
+          "text": "Wednesday, Oct 4th, Morning <br> Crosstown Concourse",
+          "linkText": "Event Details",
+          "url": "https://walkwithamal.org/events/crosstown-connections/"
         }
       },
       {
-        "title": "Memphis, Tennessee City",
+        "title": "CULTURE OF LOVE",
         "position": {
-          "lat": 35.1495,
-          "lng": -90.049
+          "lat": 35.13673179742204,
+          "lng": -90.0511253478534
         },
         "info": {
-          "text": "",
-          "linkText": "",
-          "url": ""
-        }
-      },
-      {
-        "title": "Memphis, Tennessee City",
-        "position": {
-          "lat": 35.1495,
-          "lng": -90.049
-        },
-        "info": {
-          "text": "",
-          "linkText": "",
-          "url": ""
+          "text": "Wednesday, Oct 4th, 4:00 pm <br> Historic Clayborn Temple",
+          "linkText": "Event Details",
+          "url": "https://walkwithamal.org/events/culture-of-love/"
         }
       }
     ]
   },
   {
-    "title": "Nashville, Tennessee",
+    "title": "NASHVILLE, TN",
     "position": {
       "lat": 36.1627,
       "lng": -86.7816
     },
     "cityCoordinates": [
       {
-        "title": "Nashville, Tennessee City",
+        "title": "I'M GOING TO NASHVILLE",
         "position": {
-          "lat": 36.1627,
-          "lng": -86.7816
+          "lat": 36.16150272274864,
+          "lng": -86.77355611897865
         },
         "info": {
-          "text": "",
-          "linkText": "",
-          "url": ""
+          "text": "Thursday, Oct 5th, 2:00 pm <br> Cumberland Park by the John Seigenthaler Pedestrian Bridge",
+          "linkText": "Event Details",
+          "url": "https://walkwithamal.org/events/im-going-to-nashville/"
         }
       },
       {
-        "title": "Nashville, Tennessee City",
+        "title": "WHEN THE WIND BLOWS",
         "position": {
-          "lat": 36.1627,
-          "lng": -86.7816
+          "lat": 36.14910181326618,
+          "lng": -86.8127390748024
         },
         "info": {
-          "text": "",
-          "linkText": "",
-          "url": ""
-        }
-      },
-      {
-        "title": "Nashville, Tennessee City",
-        "position": {
-          "lat": 36.1627,
-          "lng": -86.7816
-        },
-        "info": {
-          "text": "",
-          "linkText": "",
-          "url": ""
+          "text": "Thursday, Oct 5th, 5:00 pm <br> Centennial Park",
+          "linkText": "Event Details",
+          "url": "https://walkwithamal.org/events/when-the-wind-blows/"
         }
       }
     ]
   },
   {
-    "title": "Chattanooga, Tennessee",
+    "title": "CHATTANOOGA, TN",
     "position": {
       "lat": 35.0456,
       "lng": -85.3097
     },
     "cityCoordinates": [
       {
-        "title": "Chattanooga, Tennessee City",
+        "title": "DANCING WITH MY SISTERS",
         "position": {
-          "lat": 35.0456,
-          "lng": -85.3097
+          "lat": 35.05695215131114,
+          "lng": -85.3102912748444
         },
         "info": {
-          "text": "",
-          "linkText": "",
-          "url": ""
+          "text": "Saturday, Oct 7th, 3:00 pm <br> 3 Sisters Bluegrass Festival",
+          "linkText": "Event Details",
+          "url": "https://walkwithamal.org/events/dancing-with-my-sisters/"
         }
       },
       {
-        "title": "Chattanooga, Tennessee City",
+        "title": "MY VIEW FROM THE BRIDGE",
         "position": {
-          "lat": 35.0456,
-          "lng": -85.3097
+          "lat": 35.05852358269558,
+          "lng": -85.30731706135033
         },
         "info": {
-          "text": "",
-          "linkText": "",
-          "url": ""
-        }
-      },
-      {
-        "title": "Chattanooga, Tennessee City",
-        "position": {
-          "lat": 35.0456,
-          "lng": -85.3097
-        },
-        "info": {
-          "text": "",
-          "linkText": "",
-          "url": ""
+          "text": "Saturday, Oct 7th, 7:00 pm <br> Walnut Street Pedestrian Bridge",
+          "linkText": "Event Details",
+          "url": "https://walkwithamal.org/events/my-view-from-the-bridge/"
         }
       }
     ]
   },
   {
-    "title": "Atlanta, Georgia",
+    "title": "ATLANTA, GA",
     "position": {
       "lat": 33.749,
       "lng": -84.388
     },
     "cityCoordinates": [
       {
-        "title": "Atlanta, Georgia City",
+        "title": "SEVEN LANES",
         "position": {
-          "lat": 33.749,
-          "lng": -84.388
+          "lat": 33.84208756223667,
+          "lng": -84.33040451721891
         },
         "info": {
-          "text": "",
-          "linkText": "",
-          "url": ""
+          "text": "Sunday, Oct 8th, 10:00 am <br> 3268 Buford Highway Northeast",
+          "linkText": "Event Details",
+          "url": "https://walkwithamal.org/events/seven-lanes/"
         }
       },
       {
-        "title": "Atlanta, Georgia City",
+        "title": "WE HAVE A DREAM",
         "position": {
-          "lat": 33.749,
-          "lng": -84.388
+          "lat": 33.789571721692326,
+          "lng": -84.38465530372684
         },
         "info": {
-          "text": "",
-          "linkText": "",
-          "url": ""
+          "text": "Sunday, Oct 8th, 3:00 pm <br> Piazza at the Woodruff Arts Center",
+          "linkText": "Event Details",
+          "url": "https://walkwithamal.org/events/we-have-a-dream/"
         }
       },
       {
-        "title": "Atlanta, Georgia City",
+        "title": "CHASING MONARCH BUTTERFLIES",
+        "position": {
+          "lat": 33.77313392408661,
+          "lng": -84.36457746437029
+        },
+        "info": {
+          "text": "Sunday, Oct 8th, 6:30 pm <br> BeltLine Bridge",
+          "linkText": "Event Details",
+          "url": "https://walkwithamal.org/events/chasing-butterflies/"
+        }
+      },
+      {
+        "title": "THIS ANCIENT LAND",
         "position": {
           "lat": 33.749,
           "lng": -84.388
         },
         "info": {
-          "text": "",
-          "linkText": "",
-          "url": ""
+          "text": "Tuesday, Oct 10th, 10:30 am <br> TBC",
+          "linkText": "Event Details",
+          "url": "https://walkwithamal.org/events/this-ancient-land/"
+        }
+      },
+      {
+        "title": "BRICK BY BRICK",
+        "position": {
+          "lat": 33.80881755039322,
+          "lng": -84.48689133256147
+        },
+        "info": {
+          "text": "Tuesday, Oct 10th, 2:00 pm <br>Chattahoochee Brick Company",
+          "linkText": "Event Details",
+          "url": "https://walkwithamal.org/events/brick-by-brick/"
         }
       }
     ]
   },
   {
-    "title": "Birmingham, Alabama",
+    "title": "DECATUR, GA",
+    "position": {
+      "lat": 33.77486638300432,
+      "lng": -84.29624753343788
+    },
+    "cityCoordinates": [
+      {
+        "title": "ONE THING TO TAKE",
+        "position": {
+          "lat": 33.774814745152526,
+          "lng": -84.29529754605672
+        },
+        "info": {
+          "text": "Tuesday, Oct 10th, 5:00 pm <br> MARTA Station",
+          "linkText": "Event Details",
+          "url": "https://walkwithamal.org/events/one-thing-to-take/"
+        }
+      }
+    ]
+  },
+  {
+    "title": "BIRMINGHAM, AL",
     "position": {
       "lat": 33.5207,
       "lng": -86.8025
     },
     "cityCoordinates": [
       {
-        "title": "Birmingham, Alabama City",
+        "title": "WHEN THE CHILDREN GATHER",
         "position": {
           "lat": 33.5207,
           "lng": -86.8025
         },
         "info": {
-          "text": "",
-          "linkText": "",
-          "url": ""
+          "text": "Wednesday, Oct 11th, 6:00 pm<br> TBC",
+          "linkText": "Event Details",
+          "url": "https://walkwithamal.org/events/when-the-children-gather/"
         }
       },
       {
-        "title": "Birmingham, Alabama City",
+        "title": "MELTING POT",
         "position": {
-          "lat": 33.5207,
-          "lng": -86.8025
+          "lat": 33.52089868490374,
+          "lng": -86.79043124421854
         },
         "info": {
-          "text": "",
-          "linkText": "",
-          "url": ""
+          "text": "Thursday, Oct 12th, 9:00 am <br> Sloss Furnaces",
+          "linkText": "Event Details",
+          "url": "https://walkwithamal.org/events/melting-pot/"
         }
       },
       {
-        "title": "Birmingham, Alabama City",
+        "title": "MARCH ON!",
         "position": {
-          "lat": 33.5207,
-          "lng": -86.8025
+          "lat": 33.51629006227639,
+          "lng": -86.8144613595601
         },
         "info": {
-          "text": "",
-          "linkText": "",
-          "url": ""
+          "text": "Thursday, Oct 12th, 10:00 am <br> Birmingham Civil Rights Institute",
+          "linkText": "Event Details",
+          "url": "https://walkwithamal.org/events/march-on/"
         }
       }
     ]
   },
   {
-    "title": "Montgomery, Alabama",
+    "title": "MONTGOMERY, AL",
     "position": {
       "lat": 32.3792,
       "lng": -86.3077
     },
     "cityCoordinates": [
       {
-        "title": "Montgomery, Alabama City",
+        "title": "SOME BROKEN THINGS CAN BE MENDED",
         "position": {
-          "lat": 32.3792,
-          "lng": -86.3077
+          "lat": 32.375503457358775,
+          "lng": -86.32039900038906
         },
         "info": {
-          "text": "",
-          "linkText": "",
-          "url": ""
-        }
-      },
-      {
-        "title": "Montgomery, Alabama City",
-        "position": {
-          "lat": 32.3792,
-          "lng": -86.3077
-        },
-        "info": {
-          "text": "",
-          "linkText": "",
-          "url": ""
-        }
-      },
-      {
-        "title": "Montgomery, Alabama City",
-        "position": {
-          "lat": 32.3792,
-          "lng": -86.3077
-        },
-        "info": {
-          "text": "",
-          "linkText": "",
-          "url": ""
+          "text": "Friday, Oct 13th, 5:30 pm<br> Five Points",
+          "linkText": "Event Details",
+          "url": "https://walkwithamal.org/events/some-broken-things-can-be-mended/"
         }
       }
     ]
   },
   {
-    "title": "Selma, Alabama",
+    "title": "SELMA, AL",
     "position": {
       "lat": 32.4074,
       "lng": -87.0211
     },
     "cityCoordinates": [
       {
-        "title": "Selma, Alabama City",
+        "title": "HONOR THE STEPS",
         "position": {
           "lat": 32.4074,
           "lng": -87.0211
         },
         "info": {
-          "text": "",
-          "linkText": "",
-          "url": ""
-        }
-      },
-      {
-        "title": "Selma, Alabama City",
-        "position": {
-          "lat": 32.4074,
-          "lng": -87.0211
-        },
-        "info": {
-          "text": "",
-          "linkText": "",
-          "url": ""
-        }
-      },
-      {
-        "title": "Selma, Alabama City",
-        "position": {
-          "lat": 32.4074,
-          "lng": -87.0211
-        },
-        "info": {
-          "text": "",
-          "linkText": "",
-          "url": ""
+          "text": "Friday, Oct 13th, 11:00 am<br>TBC",
+          "linkText": "Event Details",
+          "url": "https://walkwithamal.org/events/honor-the-steps/"
         }
       }
     ]
   },
   {
-    "title": "New Orleans, Louisiana",
+    "title": "NEW ORLEANS, LA",
     "position": {
       "lat": 29.9511,
       "lng": -90.0715
     },
     "cityCoordinates": [
       {
-        "title": "New Orleans, Louisiana City",
+        "title": "WHEN YOU HEAR THE BEAT",
         "position": {
-          "lat": 29.9511,
-          "lng": -90.0715
+          "lat": 29.97318520601811,
+          "lng": -90.09157886152877
         },
         "info": {
-          "text": "",
-          "linkText": "",
-          "url": ""
+          "text": "Saturday Oct 14th, 10:30 am<br> Lafitte Greenway Plaza",
+          "linkText": "Event Details",
+          "url": "https://walkwithamal.org/events/when-you-hear-the-beat/"
         }
       },
       {
-        "title": "New Orleans, Louisiana City",
+        "title": "DOWN BY THE WATER",
         "position": {
-          "lat": 29.9511,
-          "lng": -90.0715
+          "lat": 29.95744550646315,
+          "lng": -90.06108761735257
         },
         "info": {
-          "text": "",
-          "linkText": "",
-          "url": ""
+          "text": "Saturday Oct 14th, 5:00 pm<br> The Moonwalk Riverfront Park",
+          "linkText": "Event Details",
+          "url": "https://walkwithamal.org/events/down-by-the-water/"
         }
       },
       {
-        "title": "New Orleans, Louisiana City",
+        "title": "CLAP YOUR HANDS",
         "position": {
-          "lat": 29.9511,
-          "lng": -90.0715
+          "lat": 30.154458725763064,
+          "lng": -90.05566926310784
         },
         "info": {
-          "text": "",
-          "linkText": "",
-          "url": ""
+          "text": "Sunday, Oct 15th, 10:00 am <br> St Luke’s Episcopal Church",
+          "linkText": "Event Details",
+          "url": "https://walkwithamal.org/events/clap-your-hands/"
+        }
+      },
+      {
+        "title": "WATERWAYS RISING",
+        "position": {
+          "lat": 29.977143853209792,
+          "lng": -90.0762247461873
+        },
+        "info": {
+          "text": "Sunday, Oct 15th, 4:00 pm <br> Andre Cailloux Center for the Performing Arts and Cultural Justice",
+          "linkText": "Event Details",
+          "url": "https://walkwithamal.org/events/waterways-rising/"
+        }
+      },
+      {
+        "title": "FANTASTIC CREATURES",
+        "position": {
+          "lat": 29.960475468323384,
+          "lng": -90.03518350385846
+        },
+        "info": {
+          "text": "Sunday, Oct 15th, 6:00 pm <br> Corner of Chartres Street and France St",
+          "linkText": "Event Details",
+          "url": "https://walkwithamal.org/events/fantastical-creatures/"
         }
       }
     ]
   },
   {
-    "title": "Lafayette, Louisiana",
+    "title": "LAFAYETTE, LA",
     "position": {
       "lat": 30.2241,
       "lng": -92.0198
     },
     "cityCoordinates": [
       {
-        "title": "Lafayette, Louisiana City",
+        "title": "ALLONS JOUER A LAFAYETTE!",
         "position": {
-          "lat": 30.2241,
-          "lng": -92.0198
+          "lat": 30.22400662386121,
+          "lng": -92.01912027501461
         },
         "info": {
-          "text": "",
-          "linkText": "",
-          "url": ""
-        }
-      },
-      {
-        "title": "Lafayette, Louisiana City",
-        "position": {
-          "lat": 30.2241,
-          "lng": -92.0198
-        },
-        "info": {
-          "text": "",
-          "linkText": "",
-          "url": ""
-        }
-      },
-      {
-        "title": "Lafayette, Louisiana City",
-        "position": {
-          "lat": 30.2241,
-          "lng": -92.0198
-        },
-        "info": {
-          "text": "",
-          "linkText": "",
-          "url": ""
+          "text": "Wednesday, Oct 18th, 6:00 pm <br> Acadiana Center for the Arts",
+          "linkText": "Event Details",
+          "url": "https://walkwithamal.org/events/allons-jouer-a-lafayette/"
         }
       }
     ]
   },
   {
-    "title": "Houston, Texas",
+    "title": "HOUSTON, TX",
     "position": {
       "lat": 29.7604,
       "lng": -95.3698
     },
     "cityCoordinates": [
       {
-        "title": "Houston, Texas City",
+        "title": "SEARCHING FOR MARIACHI",
         "position": {
-          "lat": 29.7604,
-          "lng": -95.3698
+          "lat": 29.757042718760566,
+          "lng": -95.36000310013583
         },
         "info": {
-          "text": "",
-          "linkText": "",
-          "url": ""
+          "text": "Thursday, Oct 19th, 12:30 pm <br> Downtown Houston",
+          "linkText": "Event Details",
+          "url": "https://walkwithamal.org/events/searching-for-mariachi/"
         }
       },
       {
-        "title": "Houston, Texas City",
+        "title": "FINDING MY TEAM",
         "position": {
           "lat": 29.7604,
           "lng": -95.3698
         },
         "info": {
-          "text": "",
-          "linkText": "",
-          "url": ""
+          "text": "Thursday, Oct 19th, 3:30 pm <br>TBC",
+          "linkText": "Event Details",
+          "url": "https://walkwithamal.org/events/finding-my-team/"
         }
       },
       {
-        "title": "Houston, Texas City",
+        "title": "LIGHT MY WAY",
         "position": {
-          "lat": 29.7604,
-          "lng": -95.3698
+          "lat": 29.732022271015534,
+          "lng": -95.36494660386582
         },
         "info": {
-          "text": "",
-          "linkText": "",
-          "url": ""
+          "text": "Thursday, Oct 19th, 6:30 pm <br> Project Row Houses",
+          "linkText": "Event Details",
+          "url": "https://walkwithamal.org/events/light-my-way/"
         }
       }
     ]
   },
   {
-    "title": "Austin, Texas",
+    "title": "AUSTIN, TX",
     "position": {
       "lat": 30.2672,
       "lng": -97.7431
     },
     "cityCoordinates": [
       {
-        "title": "Austin, Texas City",
+        "title": "GET READY, GET STEADY, DANCE!",
         "position": {
-          "lat": 30.2672,
-          "lng": -97.7431
+          "lat": 30.26470870649223,
+          "lng": -97.72233193268396
         },
         "info": {
-          "text": "",
-          "linkText": "",
-          "url": ""
+          "text": "Friday, Oct 20th, 5:00 pm <br> Huston-Tillotson University",
+          "linkText": "Event Details",
+          "url": "https://walkwithamal.org/events/get-ready-get-steady-dance/"
         }
       },
       {
-        "title": "Austin, Texas City",
+        "title": "BATS! BATS! BATS!",
         "position": {
-          "lat": 30.2672,
-          "lng": -97.7431
+          "lat": 30.266824267755286,
+          "lng": -97.75402546151922
         },
         "info": {
-          "text": "",
-          "linkText": "",
-          "url": ""
+          "text": "Friday, Oct 20th, 6:30 pm <br> Open Room Austin",
+          "linkText": "Event Details",
+          "url": "https://walkwithamal.org/events/bats-bats-bats/"
         }
       },
       {
-        "title": "Austin, Texas City",
+        "title": "STORM CHASED",
         "position": {
           "lat": 30.2672,
           "lng": -97.7431
         },
         "info": {
-          "text": "",
-          "linkText": "",
-          "url": ""
+          "text": "Friday, Oct 20th, 8:30 pm <br> TBC",
+          "linkText": "Event Details",
+          "url": "https://walkwithamal.org/events/storm-chased/"
         }
       }
     ]
   },
   {
-    "title": "San Antonio, Texas",
+    "title": "SAN ANTONIO, TX",
     "position": {
       "lat": 29.4241,
       "lng": -98.4936
     },
     "cityCoordinates": [
       {
-        "title": "San Antonio, Texas City",
+        "title": "AUNTIE'S SHOPPING LIST",
         "position": {
-          "lat": 29.4241,
-          "lng": -98.4936
+          "lat": 29.534416496211566,
+          "lng": -98.55824953270746
         },
         "info": {
-          "text": "",
-          "linkText": "",
-          "url": ""
+          "text": "Saturday, Oct 21st, 11:00 am <br> San Antonio Welcome Walk & Festival",
+          "linkText": "Event Details",
+          "url": "https://walkwithamal.org/events/aunties-shopping-list/"
         }
       },
       {
-        "title": "San Antonio, Texas City",
+        "title": "DREAMING OF LIGHTS",
         "position": {
-          "lat": 29.4241,
-          "lng": -98.4936
+          "lat": 29.41943337385665,
+          "lng": -98.48401573271114
         },
         "info": {
-          "text": "",
-          "linkText": "",
-          "url": ""
+          "text": "Saturday, Oct 21st, Evening <br> Hemisfair",
+          "linkText": "Event Details",
+          "url": "https://walkwithamal.org/events/dreaming-of-lights/"
         }
       },
       {
-        "title": "San Antonio, Texas City",
+        "title": "WHO AM I?",
         "position": {
-          "lat": 29.4241,
-          "lng": -98.4936
+          "lat": 29.453802943922977,
+          "lng": -98.47305222589985
         },
         "info": {
-          "text": "",
-          "linkText": "",
-          "url": ""
+          "text": "Sunday, Oct 22nd, 2:00 pm <br> Lions Field Park",
+          "linkText": "Event Details",
+          "url": "https://walkwithamal.org/events/who-am-i/"
+        }
+      },
+      {
+        "title": "A HOUSE TO CALL MY OWN",
+        "position": {
+          "lat": 29.39366396784163,
+          "lng": -98.49700208853525
+        },
+        "info": {
+          "text": "Sunday, Oct 22nd, 7:30 pm <br> Confluence Park",
+          "linkText": "Event Details",
+          "url": "https://walkwithamal.org/events/a-house-to-call-my-own/"
         }
       }
     ]
   },
   {
-    "title": "Uvalde, Texas",
-    "position": {
-      "lat": 29.2097,
-      "lng": -99.7862
-    },
-    "cityCoordinates": [
-      {
-        "title": "Uvalde, Texas City",
-        "position": {
-          "lat": 29.2097,
-          "lng": -99.7862
-        },
-        "info": {
-          "text": "",
-          "linkText": "",
-          "url": ""
-        }
-      },
-      {
-        "title": "Uvalde, Texas City",
-        "position": {
-          "lat": 29.2097,
-          "lng": -99.7862
-        },
-        "info": {
-          "text": "",
-          "linkText": "",
-          "url": ""
-        }
-      },
-      {
-        "title": "Uvalde, Texas City",
-        "position": {
-          "lat": 29.2097,
-          "lng": -99.7862
-        },
-        "info": {
-          "text": "",
-          "linkText": "",
-          "url": ""
-        }
-      }
-    ]
-  },
-  {
-    "title": "Marfa, Texas",
+    "title": "MARFA, TX",
     "position": {
       "lat": 30.3095,
       "lng": -104.0205
     },
     "cityCoordinates": [
       {
-        "title": "Marfa, Texas City",
+        "title": "THE STARS ABOVE ME",
         "position": {
-          "lat": 30.3095,
-          "lng": -104.02
+          "lat": 30.31365686157547,
+          "lng": -104.02198984617635
         },
         "info": {
-          "text": "",
-          "linkText": "",
-          "url": ""
-        }
-      },
-      {
-        "title": "Marfa, Texas City",
-        "position": {
-          "lat": 30.3095,
-          "lng": -104.02
-        },
-        "info": {
-          "text": "",
-          "linkText": "",
-          "url": ""
-        }
-      },
-      {
-        "title": "Marfa, Texas City",
-        "position": {
-          "lat": 30.3095,
-          "lng": -104.02
-        },
-        "info": {
-          "text": "",
-          "linkText": "",
-          "url": ""
+          "text": "Tuesday, Oct 24th, 7:45 pm <br> Presidio County Courthouse",
+          "linkText": "Event Details",
+          "url": "https://walkwithamal.org/events/the-stars-above-me/"
         }
       }
     ]
   },
   {
-    "title": "El Paso, Texas",
+    "title": "EL PASO, TX",
     "position": {
       "lat": 31.7619,
       "lng": -106.485
     },
     "cityCoordinates": [
       {
-        "title": "El Paso, Texas City",
+        "title": "IN THE HEALING GARDEN",
         "position": {
-          "lat": 31.7619,
-          "lng": -106.485
+          "lat": 31.757904279447164,
+          "lng": -106.40145465962199
         },
         "info": {
-          "text": "",
-          "linkText": "",
-          "url": ""
+          "text": "Wednesday, Oct 25th, 5:30 pm <br> Healing Gardens at Ascarate Park",
+          "linkText": "Event Details",
+          "url": "https://walkwithamal.org/events/in-the-healing-garden/"
         }
       },
       {
-        "title": "El Paso, Texas City",
+        "title": "INTERNATIONAL STUDENTS UNITE!",
         "position": {
-          "lat": 31.7619,
-          "lng": -106.485
+          "lat": 31.77092129883335,
+          "lng": -106.50509153263363
         },
         "info": {
-          "text": "",
-          "linkText": "",
-          "url": ""
+          "text": "Thursday, Oct 26th, Morning <br>Lhakhang Building on UTEP campus",
+          "linkText": "Event Details",
+          "url": "https://walkwithamal.org/events/international-students-unite/"
         }
       },
       {
-        "title": "El Paso, Texas City",
+        "title": "TWO SIDES",
         "position": {
           "lat": 31.7619,
           "lng": -106.485
         },
         "info": {
-          "text": "",
-          "linkText": "",
-          "url": ""
+          "text": "Thursday, Oct 26th, Afternoon <br> TBC",
+          "linkText": "Event Details",
+          "url": "https://walkwithamal.org/events/two-sides/"
+        }
+      },
+      {
+        "title": "MORE SWEETLY PLAY THE DANCE",
+        "position": {
+          "lat": 31.70972792852279,
+          "lng": -106.36181497496499
+        },
+        "info": {
+          "text": "Thursday, Oct 26th, 7:00 pm <br> J.P. Shawver Park",
+          "linkText": "Event Details",
+          "url": "https://walkwithamal.org/events/more-sweetly-play-the-dance/"
         }
       }
     ]
   },
   {
-    "title": "Nogales, Arizona",
+    "title": "NOGALES, AZ",
     "position": {
       "lat": 31.3404,
       "lng": -110.9343
     },
     "cityCoordinates": [
       {
-        "title": "Nogales, Arizona City",
+        "title": "MESSAGES THROUGH THE WALL",
         "position": {
-          "lat": 31.3404,
-          "lng": -110.934
+          "lat": 31.336036222258166,
+          "lng": -110.94072235719325
         },
         "info": {
-          "text": "",
-          "linkText": "",
-          "url": ""
-        }
-      },
-      {
-        "title": "Nogales, Arizona City",
-        "position": {
-          "lat": 31.3404,
-          "lng": -110.934
-        },
-        "info": {
-          "text": "",
-          "linkText": "",
-          "url": ""
-        }
-      },
-      {
-        "title": "Nogales, Arizona City",
-        "position": {
-          "lat": 31.3404,
-          "lng": -110.934
-        },
-        "info": {
-          "text": "",
-          "linkText": "",
-          "url": ""
+          "text": "Friday, Oct 27th, 5:00 pm <br> Corner of Park Street and Morley Ave",
+          "linkText": "Event Details",
+          "url": "https://walkwithamal.org/events/messages-through-the-wall/"
         }
       }
     ]
   },
   {
-    "title": "Tucson, Arizona",
+    "title": "TUCSON, AZ",
     "position": {
       "lat": 32.2226,
       "lng": -110.9747
     },
     "cityCoordinates": [
       {
-        "title": "Tucson, Arizona City",
+        "title": "SOUTHWEST: SUNRISE TO SUNSET",
         "position": {
-          "lat": 32.2226,
-          "lng": -110.974
+          "lat": 32.225990225958995,
+          "lng": -111.00158625542703
         },
         "info": {
-          "text": "",
-          "linkText": "",
-          "url": ""
-        }
-      },
-      {
-        "title": "Tucson, Arizona City",
-        "position": {
-          "lat": 32.2226,
-          "lng": -110.974
-        },
-        "info": {
-          "text": "",
-          "linkText": "",
-          "url": ""
-        }
-      },
-      {
-        "title": "Tucson, Arizona City",
-        "position": {
-          "lat": 32.2226,
-          "lng": -110.974
-        },
-        "info": {
-          "text": "",
-          "linkText": "",
-          "url": ""
+          "text": "Saturday, Oct 28th, 6:00 am <br> Base of Tumamoc Hill",
+          "linkText": "Event Details",
+          "url": "https://walkwithamal.org/events/southwest-sunrise-to-sunset-part-1/"
         }
       }
     ]
   },
   {
-    "title": "Joshua Tree, California",
+    "title": "JOSHUA TREE, CA",
     "position": {
       "lat": 34.1347,
       "lng": -116.3131
     },
     "cityCoordinates": [
       {
-        "title": "Joshua Tree, California City",
-        "position": {
-          "lat": 34.1347,
-          "lng": -116.313
-        },
-        "info": {
-          "text": "",
-          "linkText": "",
-          "url": ""
-        }
-      },
-      {
-        "title": "Joshua Tree, California City",
-        "position": {
-          "lat": 34.1347,
-          "lng": -116.313
-        },
-        "info": {
-          "text": "",
-          "linkText": "",
-          "url": ""
-        }
-      },
-      {
-        "title": "Joshua Tree, California City",
+        "title": "Joshua Tree, California",
         "position": {
           "lat": 34.1347,
           "lng": -116.313
@@ -1533,91 +1389,151 @@
     ]
   },
   {
-    "title": "Los Angeles, California",
+    "title": "LOS ANGELES, CA",
     "position": {
       "lat": 34.0522,
       "lng": -118.2437
     },
     "cityCoordinates": [
       {
-        "title": "Los Angeles, California City",
+        "title": "OFF TO SCHOOL",
         "position": {
-          "lat": 34.0522,
-          "lng": -118.243
+          "lat": 34.059608163820165,
+          "lng": -118.29800241721084
         },
         "info": {
-          "text": "",
-          "linkText": "",
-          "url": ""
+          "text": "Wednesday, Nov 1st, 7:45 am <br>UCLA Community School",
+          "linkText": "Event Details",
+          "url": "https://walkwithamal.org/events/off-to-school/"
         }
       },
       {
-        "title": "Los Angeles, California City",
+        "title": "AMAL'S OFRENDA",
         "position": {
-          "lat": 34.0522,
-          "lng": -118.243
+          "lat": 34.05680002194798,
+          "lng": -118.23877913255247
         },
         "info": {
-          "text": "",
-          "linkText": "",
-          "url": ""
+          "text": "Wednesday, Nov 1st, 3:00 pm <br> El Pueblo de Los Angeles Historical Monument ",
+          "linkText": "Event Details",
+          "url": "https://walkwithamal.org/events/amals-ofrenda/"
         }
       },
       {
-        "title": "Los Angeles, California City",
+        "title": "LOOKING FOR HOME",
         "position": {
-          "lat": 34.0522,
-          "lng": -118.243
+          "lat": 34.050352238852696,
+          "lng": -118.2621141128882
         },
         "info": {
-          "text": "",
-          "linkText": "",
-          "url": ""
+          "text": "Thursday, Nov 2nd, 1:00 pm <br>7th Street / Skid Row",
+          "linkText": "Event Details",
+          "url": "https://walkwithamal.org/events/looking-for-home/"
+        }
+      },
+      {
+        "title": "ON THE PIER",
+        "position": {
+          "lat": 34.00848841833495,
+          "lng": -118.49870809705195
+        },
+        "info": {
+          "text": "Thursday, Nov 2nd, 5:00 pm <br> Santa Monica Pier",
+          "linkText": "Event Details",
+          "url": "https://walkwithamal.org/events/on-the-pier/"
+        }
+      },
+      {
+        "title": "BUENA VIDA",
+        "position": {
+          "lat": 34.0573850338562,
+          "lng": -118.24820319022294
+        },
+        "info": {
+          "text": "Thursday, Nov 2nd, 6:30 pm <br> Jerry Moss Plaza at The Music Center",
+          "linkText": "Event Details",
+          "url": "https://walkwithamal.org/events/buena-vida/"
+        }
+      },
+      {
+        "title": "QUEEN OF THE MONARCHS",
+        "position": {
+          "lat": 34.07344231897858,
+          "lng": -118.4005647782082
+        },
+        "info": {
+          "text": "Friday, Nov 3rd, 10:30 am <br> Beverly Hills",
+          "linkText": "Event Details",
+          "url": "https://walkwithamal.org/events/queen-of-the-monarchs/"
         }
       }
     ]
   },
   {
-    "title": "San Diego, California",
+    "title": "SAN DIEGO, CA",
     "position": {
       "lat": 32.7157,
       "lng": -117.1611
     },
     "cityCoordinates": [
       {
-        "title": "San Diego, California City",
+        "title": "STEP INTO MY WORLD",
         "position": {
-          "lat": 32.7157,
-          "lng": -117.161
+          "lat": 32.704897420786544,
+          "lng": -117.16595159027186
         },
         "info": {
-          "text": "",
-          "linkText": "",
-          "url": ""
+          "text": "Friday, Nov 3rd, 6:30 pm <br> The Rady Shell at Jacobs Park ",
+          "linkText": "Event Details",
+          "url": "https://walkwithamal.org/events/step-into-my-world/"
         }
       },
       {
-        "title": "San Diego, California City",
+        "title": "STEP OUTSIDE THE LINES",
         "position": {
           "lat": 32.7157,
           "lng": -117.161
         },
         "info": {
-          "text": "",
-          "linkText": "",
-          "url": ""
+          "text": "Saturday, Nov 4th, Afternoon <br> TBC",
+          "linkText": "Event Details",
+          "url": "https://walkwithamal.org/events/step-outside-the-lines/"
         }
       },
       {
-        "title": "San Diego, California City",
+        "title": "AMAL AND SUENOS",
+        "position": {
+          "lat": 32.69982301439722,
+          "lng": -117.14254478842459
+        },
+        "info": {
+          "text": "Saturday, Nov 4th, 5:00 pm <br> Chicano Park",
+          "linkText": "Event Details",
+          "url": "https://walkwithamal.org/events/amal-and-suenos/"
+        }
+      },
+      {
+        "title": "WASHED ASHORE",
+        "position": {
+          "lat": 32.77365058529878,
+          "lng": -117.25201334118766
+        },
+        "info": {
+          "text": "Sunday, Nov 5th, 11:00 am <br> Mission Bay",
+          "linkText": "Event Details",
+          "url": "https://walkwithamal.org/events/washed-ashore/"
+        }
+      },
+      {
+        "title": "LAST STEPS",
         "position": {
           "lat": 32.7157,
           "lng": -117.161
         },
         "info": {
-          "text": "",
-          "linkText": "",
-          "url": ""
+          "text": "Sunday, Nov 5th, 5:00 pm <br> TBC",
+          "linkText": "Event Details",
+          "url": "https://walkwithamal.org/events/last-steps/"
         }
       }
     ]

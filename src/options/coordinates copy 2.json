@@ -1,0 +1,1625 @@
+[
+  {
+    "title": "BOSTON, MA",
+    "position": {
+      "lat": 42.36246722084178,
+      "lng": -71.06349451191598
+    },
+    "cityCoordinates": [
+      {
+        "title": "Welcome to Boston",
+        "position": {
+          "lat": 42.353544043463884,
+          "lng": -71.05461967638794
+        },
+        "info": {
+          "text": "Thursday September 7th, 4:00 pm <br> Dewey Square",
+          "linkText": "More Details",
+          "url": "https://walkwithamal.org/events/welcome-to-boston/"
+        }
+      },
+      {
+        "title": "Finding friends in Harvard Yard",
+        "position": {
+          "lat": 42.37594046154953,
+          "lng": -71.11674117703193
+        },
+        "info": {
+          "text": "Thursday September 7th, 7:00 pm <br> Harvard Science Center Plaza",
+          "linkText": "More Details",
+          "url": "https://walkwithamal.org/events/finding-friends-in-harvard-yard/"
+        }
+      },
+      {
+        "title": "Countdown to Kindergarten",
+        "position": {
+          "lat": 42.37801323335604,
+          "lng": -71.02833342056351
+        },
+        "info": {
+          "text": "Friday September 8th, 12:00 pm <br> East Boston Public Library",
+          "linkText": "More Details",
+          "url": "https://walkwithamal.org/events/countdown-to-kindergarten/"
+        }
+      },
+      {
+        "title": "When migrants meet",
+        "position": {
+          "lat": 42.3142505086815,
+          "lng": -71.09578537638967
+        },
+        "info": {
+          "text": "Saturday September 9th, 11:00 am <br> Eagleston Square Branch of the Boston Library",
+          "linkText": "More Details",
+          "url": "https://walkwithamal.org/events/when-migrants-meet/"
+        }
+      },
+      {
+        "title": "Ceremonial first pitch",
+        "position": {
+          "lat": 42.34686667880615,
+          "lng": -71.09717488803487
+        },
+        "info": {
+          "text": "Saturday September 9th, 3:30 pm <br> Fenway Park",
+          "linkText": "More Details",
+          "url": "https://walkwithamal.org/events/ceremonial-first-pitch/"
+        }
+      }
+    ]
+  },
+  {
+    "title": "ASHFIELD, MA",
+    "position": {
+      "lat": 42.4939,
+      "lng": -72.8086
+    },
+    "cityCoordinates": [
+      {
+        "title": "A place to plant, a place to grow",
+        "position": {
+          "lat": 42.526001892428006,
+          "lng": -72.79040651131989
+        },
+        "info": {
+          "text": "Sunday September 10th, 12:30 pm <br> Ashfield Town Common",
+          "linkText": "More Details",
+          "url": "https://walkwithamal.org/events/a-place-to-plant-a-place-to-grow/"
+        }
+      }
+    ]
+  },
+  {
+    "title": "NORTH ADAMS, MA",
+    "position": {
+      "lat": 42.7006,
+      "lng": -73.1082
+    },
+    "cityCoordinates": [
+      {
+        "title": "Mystical traces",
+        "position": {
+          "lat": 42.70208356885659,
+          "lng": -73.11586981685402
+        },
+        "info": {
+          "text": "Sunday September 10th, 3:00 pm <br> Mass MoCA",
+          "linkText": "More Details",
+          "url": "https://walkwithamal.org/events/mystical-traces/"
+        }
+      }
+    ]
+  },
+  {
+    "title": "HARTFORD, CT",
+    "position": {
+      "lat": 41.7658,
+      "lng": -72.6734
+    },
+    "cityCoordinates": [
+      {
+        "title": "Bushy tailed",
+        "position": {
+          "lat": 41.7640189938823,
+          "lng": -72.68054572721208
+        },
+        "info": {
+          "text": "Tuesday September 12th, 1:00 pm <br> Intersection of Elm Street and Trinity Street",
+          "linkText": "More Details",
+          "url": "https://walkwithamal.org/events/bushy-tailed/"
+        }
+      }
+    ]
+  },
+  {
+    "title": "PHILADELPHIA, PA",
+    "position": {
+      "lat": 39.9526,
+      "lng": -75.1652
+    },
+    "cityCoordinates": [
+      {
+        "title": "Searching for home",
+        "position": {
+          "lat": 39.93343338233867,
+          "lng": -75.16481997464733
+        },
+        "info": {
+          "text": "Wednesday September 13th, 1:30 pm <br> Columbus Park",
+          "linkText": "More Details",
+          "url": "https://walkwithamal.org/events/searching-for-home/"
+        }
+      },
+      {
+        "title": "Will you just let me sleep",
+        "position": {
+          "lat": 39.94508912991739,
+          "lng": -75.16562530348219
+        },
+        "info": {
+          "text": "Wednesday September 13th, 7:00 pm <br> 480 Broad St",
+          "linkText": "More Details",
+          "url": "https://walkwithamal.org/events/will-you-just-let-me-sleep/"
+        }
+      },
+      {
+        "title": "A moment of peace",
+        "position": {
+          "lat": 39.9753986279718,
+          "lng": -75.22626053046895
+        },
+        "info": {
+          "text": "Thursday September 14th, 11:00 am <br> One Art Community Center",
+          "linkText": "More Details",
+          "url": "https://walkwithamal.org/events/a-moment-of-peace/"
+        }
+      },
+      {
+        "title": "Chasing LOVE",
+        "position": {
+          "lat": 39.96177326825243,
+          "lng": -75.1744006378589
+        },
+        "info": {
+          "text": "Thursday September 14th, 4:00 pm <br> The Thinker Sculpture at the Rodin Museum",
+          "linkText": "More Details",
+          "url": "https://walkwithamal.org/events/chasing-love/"
+        }
+      }
+    ]
+  },
+  {
+    "title": "BALTIMORE, MD",
+    "position": {
+      "lat": 39.2904,
+      "lng": -76.6122
+    },
+    "cityCoordinates": [
+      {
+        "title": "Off to meet the Mayor",
+        "position": {
+          "lat": 39.29103014818968,
+          "lng": -76.61058071885144
+        },
+        "info": {
+          "text": "Friday September 15th, 4:30 pm <br> Baltimore City Hall",
+          "linkText": "More Details",
+          "url": "https://walkwithamal.org/events/off-to-meet-the-mayor/"
+        }
+      },
+      {
+        "title": "Where’s my ice cream?",
+        "position": {
+          "lat": 39.28149568692799,
+          "lng": -76.6093797458398
+        },
+        "info": {
+          "text": "Saturday September 16th, 11:00 pm <br> Rash Field",
+          "linkText": "More Details",
+          "url": "https://walkwithamal.org/events/wheres-my-ice-cream/"
+        }
+      },
+      {
+        "title": "Separated, together",
+        "position": {
+          "lat": 39.289586130500645,
+          "lng": -76.58449682640338
+        },
+        "info": {
+          "text": "Saturday September 16th, 2:00 pm <br> Patterson Park",
+          "linkText": "More Details",
+          "url": "https://walkwithamal.org/events/separated-together/"
+        }
+      },
+      {
+        "title": "Look what grows here",
+        "position": {
+          "lat": 39.30082297994917,
+          "lng": -76.63025003160345
+        },
+        "info": {
+          "text": "Saturday September 16th, 4:30 pm <br> Robert C. Marshall Park",
+          "linkText": "More Details",
+          "url": "https://walkwithamal.org/events/look-what-grows-here/"
+        }
+      }
+    ]
+  },
+  {
+    "title": "WASHINGTON, D.C.",
+    "position": {
+      "lat": 38.9072,
+      "lng": -77.0369
+    },
+    "cityCoordinates": [
+      {
+        "title": "I found a heavenly harvest",
+        "position": {
+          "lat": 38.865582145704934,
+          "lng": -76.98970343236341
+        },
+        "info": {
+          "text": "Sunday September 17th, 11:30 am <br> Big Chair",
+          "linkText": "More Details",
+          "url": "https://walkwithamal.org/events/i-found-a-heavenly-harvest/"
+        }
+      },
+      {
+        "title": "The sounds of hope",
+        "position": {
+          "lat": 38.90148601283094,
+          "lng": -77.03656863236174
+        },
+        "info": {
+          "text": "Sunday September 17th, 3:00 pm <br> Black Lives Matter Plaza",
+          "linkText": "More Details",
+          "url": "https://walkwithamal.org/events/the-sounds-of-hope/"
+        }
+      },
+      {
+        "title": "Little shoes, big journeys",
+        "position": {
+          "lat": 38.89591631053743,
+          "lng": -77.03060502823972
+        },
+        "info": {
+          "text": "Tuesday September 19th, 4:00 pm <br> Freedom Plaza",
+          "linkText": "More Details",
+          "url": "https://walkwithamal.org/events/little-shoes-big-journeys/"
+        }
+      }
+    ]
+  },
+  {
+    "title": "PRINCE GEORGE'S COUNTY, MD",
+    "position": {
+      "lat": 38.84466636109828,
+      "lng": -76.85603509937458
+    },
+    "cityCoordinates": [
+      {
+        "title": "I love to learn",
+        "position": {
+          "lat": 38.94003015041638,
+          "lng": -76.93101251886624
+        },
+        "info": {
+          "text": "Tuesday September 19th, 10:00 am <br> International School at Langley Park",
+          "linkText": "More Details",
+          "url": "https://walkwithamal.org/events/i-love-to-learn/"
+        }
+      }
+    ]
+  },
+  {
+    "title": "PITTSBURGH, PA",
+    "position": {
+      "lat": 40.4406,
+      "lng": -79.9959
+    },
+    "cityCoordinates": [
+      {
+        "title": "Take the “Jitney” train",
+        "position": {
+          "lat": 40.44307129325435,
+          "lng": -80.00147828894927
+        },
+        "info": {
+          "text": "Wednesday September 20th, 12:00 pm <br> Public Theater / O’Reilly Theater",
+          "linkText": "More Details",
+          "url": "https://walkwithamal.org/events/take-the-jitney-train/"
+        }
+      },
+      {
+        "title": "Ghosts in the furnace",
+        "position": {
+          "lat": 40.414178264119585,
+          "lng": -79.88980483229727
+        },
+        "info": {
+          "text": "Wednesday September 20th, 7:00 pm <br> Carrie Furnace",
+          "linkText": "More Details",
+          "url": "https://walkwithamal.org/events/ghosts-in-the-furnace/"
+        }
+      },
+      {
+        "title": "I hereby declare that I’m only 10",
+        "position": {
+          "lat": 40.43854411524696,
+          "lng": -79.99736011880219
+        },
+        "info": {
+          "text": "Thursday September 21st, 10:00 am <br> City-County Building",
+          "linkText": "More Details",
+          "url": "https://walkwithamal.org/events/i-hereby-declare-that-im-only-10/"
+        }
+      },
+      {
+        "title": "Play in peace",
+        "position": {
+          "lat": 40.44535234524447,
+          "lng": -80.01184251880194
+        },
+        "info": {
+          "text": "Thursday September 21st, 12:00 pm <br> Great Lawn",
+          "linkText": "More Details",
+          "url": "https://walkwithamal.org/events/play-in-peace/"
+        }
+      },
+      {
+        "title": "Imagination is my playground",
+        "position": {
+          "lat": 40.436138294129535,
+          "lng": -79.8900434476377
+        },
+        "info": {
+          "text": "Thursday September 21st, 5:00 pm <br> Whitney Park",
+          "linkText": "More Details",
+          "url": "https://walkwithamal.org/events/imagination-is-my-playground/"
+        }
+      }
+    ]
+  },
+  {
+    "title": "COLUMBUS, OH",
+    "position": {
+      "lat": 39.9612,
+      "lng": -82.9988
+    },
+    "cityCoordinates": [
+      {
+        "title": "Relentless beat",
+        "position": {
+          "lat": 39.96017379000992,
+          "lng": -83.00482733231688
+        },
+        "info": {
+          "text": "Friday September 22nd, 6:00 pm <br> Genoa Park",
+          "linkText": "More Details",
+          "url": "https://walkwithamal.org/events/relentless-beat/"
+        }
+      }
+    ]
+  },
+  {
+    "title": "CINCINNATI, OH",
+    "position": {
+      "lat": 39.1031,
+      "lng": -84.512
+    },
+    "cityCoordinates": [
+      {
+        "title": "Steams connecting",
+        "position": {
+          "lat": 39.098045878560306,
+          "lng": -84.50448825020942
+        },
+        "info": {
+          "text": "Friday September 22nd, 3:00 pm <br> Heritage Bank Center Plaza",
+          "linkText": "More Details",
+          "url": "https://walkwithamal.org/events/steams-connecting/"
+        }
+      }
+    ]
+  },
+  {
+    "title": "AKRON, OH",
+    "position": {
+      "lat": 41.0814,
+      "lng": -81.519
+    },
+    "cityCoordinates": [
+      {
+        "title": "Walls down",
+        "position": {
+          "lat": 41.09658343301174,
+          "lng": -81.51097843042007
+        },
+        "info": {
+          "text": "Saturday September 23rd <br> Waters Park",
+          "linkText": "More Details",
+          "url": "https://walkwithamal.org/events/walls-down/"
+        }
+      }
+    ]
+  },
+  {
+    "title": "ANN ARBOR, MI",
+    "position": {
+      "lat": 42.279895602923084,
+      "lng": -83.74181260214668
+    },
+    "cityCoordinates": [
+      {
+        "title": "First day of school",
+        "position": {
+          "lat": 42.280669303405546,
+          "lng": -83.74019166104988
+        },
+        "info": {
+          "text": "Saturday September 23rd, 3:00 pm <br> North Quad",
+          "linkText": "More Details",
+          "url": "https://walkwithamal.org/events/first-day-of-school/"
+        }
+      },
+      {
+        "title": "Let us light the way",
+        "position": {
+          "lat": 42.28409178170269,
+          "lng": -83.74661831872038
+        },
+        "info": {
+          "text": "Saturday September 23rd, 7:00 pm <br> Kerrytown Faqrmers Market",
+          "linkText": "More Details",
+          "url": "https://walkwithamal.org/events/let-us-light-the-way/"
+        }
+      }
+    ]
+  },
+  {
+    "title": "OAKLAND COUNTY, MI",
+    "position": {
+      "lat": 42.65742066880927,
+      "lng": -83.3878403947675
+    },
+    "cityCoordinates": [
+      {
+        "title": "These cars were made for driving",
+        "position": {
+          "lat": 42.65742066880927,
+          "lng": -83.3878403947675
+        },
+        "info": {
+          "text": "Sunday September 24th, 4:00 pm <br>",
+          "linkText": "More Details",
+          "url": "https://walkwithamal.org/events/these-cars-were-made-for-driving/"
+        }
+      }
+    ]
+  },
+  {
+    "title": "DETROIT, MI",
+    "position": {
+      "lat": 42.33279973624325,
+      "lng": -83.03879325053403
+    },
+    "cityCoordinates": [
+      {
+        "title": "Dancing in the streets",
+        "position": {
+          "lat": 42.343680335439124,
+          "lng": -83.02812131903575
+        },
+        "info": {
+          "text": "Tuesday September 26th, Morning <br> Elmwood Park",
+          "linkText": "More Details",
+          "url": "https://walkwithamal.org/events/dancing-in-the-streets/"
+        }
+      },
+      {
+        "title": "Dearborn, Michigan City",
+        "position": {
+          "lat": 42.3223,
+          "lng": -83.1763
+        },
+        "info": {
+          "text": "",
+          "linkText": "",
+          "url": ""
+        }
+      },
+      {
+        "title": "Dearborn, Michigan City",
+        "position": {
+          "lat": 42.3223,
+          "lng": -83.1763
+        },
+        "info": {
+          "text": "",
+          "linkText": "",
+          "url": ""
+        }
+      }
+    ]
+  },
+  {
+    "title": "Detroit/Dearborn, Michigan",
+    "position": {
+      "lat": 42.3314,
+      "lng": -83.0458
+    },
+    "cityCoordinates": [
+      {
+        "title": "Detroit/Dearborn, Michigan City",
+        "position": {
+          "lat": 42.3314,
+          "lng": -83.0458
+        },
+        "info": {
+          "text": "",
+          "linkText": "",
+          "url": ""
+        }
+      },
+      {
+        "title": "Detroit/Dearborn, Michigan City",
+        "position": {
+          "lat": 42.3314,
+          "lng": -83.0458
+        },
+        "info": {
+          "text": "",
+          "linkText": "",
+          "url": ""
+        }
+      },
+      {
+        "title": "Detroit/Dearborn, Michigan City",
+        "position": {
+          "lat": 42.3314,
+          "lng": -83.0458
+        },
+        "info": {
+          "text": "",
+          "linkText": "",
+          "url": ""
+        }
+      }
+    ]
+  },
+  {
+    "title": "Flint, Michigan",
+    "position": {
+      "lat": 43.0125,
+      "lng": -83.6875
+    },
+    "cityCoordinates": [
+      {
+        "title": "Flint, Michigan City",
+        "position": {
+          "lat": 43.0125,
+          "lng": -83.6875
+        },
+        "info": {
+          "text": "",
+          "linkText": "",
+          "url": ""
+        }
+      },
+      {
+        "title": "Flint, Michigan City",
+        "position": {
+          "lat": 43.0125,
+          "lng": -83.6875
+        },
+        "info": {
+          "text": "",
+          "linkText": "",
+          "url": ""
+        }
+      },
+      {
+        "title": "Flint, Michigan City",
+        "position": {
+          "lat": 43.0125,
+          "lng": -83.6875
+        },
+        "info": {
+          "text": "",
+          "linkText": "",
+          "url": ""
+        }
+      }
+    ]
+  },
+  {
+    "title": "Chicago, Illinois",
+    "position": {
+      "lat": 41.8781,
+      "lng": -87.6298
+    },
+    "cityCoordinates": [
+      {
+        "title": "Chicago, Illinois City",
+        "position": {
+          "lat": 41.8781,
+          "lng": -87.6298
+        },
+        "info": {
+          "text": "",
+          "linkText": "",
+          "url": ""
+        }
+      },
+      {
+        "title": "Chicago, Illinois City",
+        "position": {
+          "lat": 41.8781,
+          "lng": -87.6298
+        },
+        "info": {
+          "text": "",
+          "linkText": "",
+          "url": ""
+        }
+      },
+      {
+        "title": "Chicago, Illinois City",
+        "position": {
+          "lat": 41.8781,
+          "lng": -87.6298
+        },
+        "info": {
+          "text": "",
+          "linkText": "",
+          "url": ""
+        }
+      }
+    ]
+  },
+  {
+    "title": "St Louis, Missouri",
+    "position": {
+      "lat": 38.627,
+      "lng": -90.1994
+    },
+    "cityCoordinates": [
+      {
+        "title": "St Louis, Missouri City",
+        "position": {
+          "lat": 38.627,
+          "lng": -90.199
+        },
+        "info": {
+          "text": "",
+          "linkText": "",
+          "url": ""
+        }
+      },
+      {
+        "title": "St Louis, Missouri City",
+        "position": {
+          "lat": 38.627,
+          "lng": -90.199
+        },
+        "info": {
+          "text": "",
+          "linkText": "",
+          "url": ""
+        }
+      },
+      {
+        "title": "St Louis, Missouri City",
+        "position": {
+          "lat": 38.627,
+          "lng": -90.199
+        },
+        "info": {
+          "text": "",
+          "linkText": "",
+          "url": ""
+        }
+      }
+    ]
+  },
+  {
+    "title": "Memphis, Tennessee",
+    "position": {
+      "lat": 35.1495,
+      "lng": -90.049
+    },
+    "cityCoordinates": [
+      {
+        "title": "Memphis, Tennessee City",
+        "position": {
+          "lat": 35.1495,
+          "lng": -90.049
+        },
+        "info": {
+          "text": "",
+          "linkText": "",
+          "url": ""
+        }
+      },
+      {
+        "title": "Memphis, Tennessee City",
+        "position": {
+          "lat": 35.1495,
+          "lng": -90.049
+        },
+        "info": {
+          "text": "",
+          "linkText": "",
+          "url": ""
+        }
+      },
+      {
+        "title": "Memphis, Tennessee City",
+        "position": {
+          "lat": 35.1495,
+          "lng": -90.049
+        },
+        "info": {
+          "text": "",
+          "linkText": "",
+          "url": ""
+        }
+      }
+    ]
+  },
+  {
+    "title": "Nashville, Tennessee",
+    "position": {
+      "lat": 36.1627,
+      "lng": -86.7816
+    },
+    "cityCoordinates": [
+      {
+        "title": "Nashville, Tennessee City",
+        "position": {
+          "lat": 36.1627,
+          "lng": -86.7816
+        },
+        "info": {
+          "text": "",
+          "linkText": "",
+          "url": ""
+        }
+      },
+      {
+        "title": "Nashville, Tennessee City",
+        "position": {
+          "lat": 36.1627,
+          "lng": -86.7816
+        },
+        "info": {
+          "text": "",
+          "linkText": "",
+          "url": ""
+        }
+      },
+      {
+        "title": "Nashville, Tennessee City",
+        "position": {
+          "lat": 36.1627,
+          "lng": -86.7816
+        },
+        "info": {
+          "text": "",
+          "linkText": "",
+          "url": ""
+        }
+      }
+    ]
+  },
+  {
+    "title": "Chattanooga, Tennessee",
+    "position": {
+      "lat": 35.0456,
+      "lng": -85.3097
+    },
+    "cityCoordinates": [
+      {
+        "title": "Chattanooga, Tennessee City",
+        "position": {
+          "lat": 35.0456,
+          "lng": -85.3097
+        },
+        "info": {
+          "text": "",
+          "linkText": "",
+          "url": ""
+        }
+      },
+      {
+        "title": "Chattanooga, Tennessee City",
+        "position": {
+          "lat": 35.0456,
+          "lng": -85.3097
+        },
+        "info": {
+          "text": "",
+          "linkText": "",
+          "url": ""
+        }
+      },
+      {
+        "title": "Chattanooga, Tennessee City",
+        "position": {
+          "lat": 35.0456,
+          "lng": -85.3097
+        },
+        "info": {
+          "text": "",
+          "linkText": "",
+          "url": ""
+        }
+      }
+    ]
+  },
+  {
+    "title": "Atlanta, Georgia",
+    "position": {
+      "lat": 33.749,
+      "lng": -84.388
+    },
+    "cityCoordinates": [
+      {
+        "title": "Atlanta, Georgia City",
+        "position": {
+          "lat": 33.749,
+          "lng": -84.388
+        },
+        "info": {
+          "text": "",
+          "linkText": "",
+          "url": ""
+        }
+      },
+      {
+        "title": "Atlanta, Georgia City",
+        "position": {
+          "lat": 33.749,
+          "lng": -84.388
+        },
+        "info": {
+          "text": "",
+          "linkText": "",
+          "url": ""
+        }
+      },
+      {
+        "title": "Atlanta, Georgia City",
+        "position": {
+          "lat": 33.749,
+          "lng": -84.388
+        },
+        "info": {
+          "text": "",
+          "linkText": "",
+          "url": ""
+        }
+      }
+    ]
+  },
+  {
+    "title": "Birmingham, Alabama",
+    "position": {
+      "lat": 33.5207,
+      "lng": -86.8025
+    },
+    "cityCoordinates": [
+      {
+        "title": "Birmingham, Alabama City",
+        "position": {
+          "lat": 33.5207,
+          "lng": -86.8025
+        },
+        "info": {
+          "text": "",
+          "linkText": "",
+          "url": ""
+        }
+      },
+      {
+        "title": "Birmingham, Alabama City",
+        "position": {
+          "lat": 33.5207,
+          "lng": -86.8025
+        },
+        "info": {
+          "text": "",
+          "linkText": "",
+          "url": ""
+        }
+      },
+      {
+        "title": "Birmingham, Alabama City",
+        "position": {
+          "lat": 33.5207,
+          "lng": -86.8025
+        },
+        "info": {
+          "text": "",
+          "linkText": "",
+          "url": ""
+        }
+      }
+    ]
+  },
+  {
+    "title": "Montgomery, Alabama",
+    "position": {
+      "lat": 32.3792,
+      "lng": -86.3077
+    },
+    "cityCoordinates": [
+      {
+        "title": "Montgomery, Alabama City",
+        "position": {
+          "lat": 32.3792,
+          "lng": -86.3077
+        },
+        "info": {
+          "text": "",
+          "linkText": "",
+          "url": ""
+        }
+      },
+      {
+        "title": "Montgomery, Alabama City",
+        "position": {
+          "lat": 32.3792,
+          "lng": -86.3077
+        },
+        "info": {
+          "text": "",
+          "linkText": "",
+          "url": ""
+        }
+      },
+      {
+        "title": "Montgomery, Alabama City",
+        "position": {
+          "lat": 32.3792,
+          "lng": -86.3077
+        },
+        "info": {
+          "text": "",
+          "linkText": "",
+          "url": ""
+        }
+      }
+    ]
+  },
+  {
+    "title": "Selma, Alabama",
+    "position": {
+      "lat": 32.4074,
+      "lng": -87.0211
+    },
+    "cityCoordinates": [
+      {
+        "title": "Selma, Alabama City",
+        "position": {
+          "lat": 32.4074,
+          "lng": -87.0211
+        },
+        "info": {
+          "text": "",
+          "linkText": "",
+          "url": ""
+        }
+      },
+      {
+        "title": "Selma, Alabama City",
+        "position": {
+          "lat": 32.4074,
+          "lng": -87.0211
+        },
+        "info": {
+          "text": "",
+          "linkText": "",
+          "url": ""
+        }
+      },
+      {
+        "title": "Selma, Alabama City",
+        "position": {
+          "lat": 32.4074,
+          "lng": -87.0211
+        },
+        "info": {
+          "text": "",
+          "linkText": "",
+          "url": ""
+        }
+      }
+    ]
+  },
+  {
+    "title": "New Orleans, Louisiana",
+    "position": {
+      "lat": 29.9511,
+      "lng": -90.0715
+    },
+    "cityCoordinates": [
+      {
+        "title": "New Orleans, Louisiana City",
+        "position": {
+          "lat": 29.9511,
+          "lng": -90.0715
+        },
+        "info": {
+          "text": "",
+          "linkText": "",
+          "url": ""
+        }
+      },
+      {
+        "title": "New Orleans, Louisiana City",
+        "position": {
+          "lat": 29.9511,
+          "lng": -90.0715
+        },
+        "info": {
+          "text": "",
+          "linkText": "",
+          "url": ""
+        }
+      },
+      {
+        "title": "New Orleans, Louisiana City",
+        "position": {
+          "lat": 29.9511,
+          "lng": -90.0715
+        },
+        "info": {
+          "text": "",
+          "linkText": "",
+          "url": ""
+        }
+      }
+    ]
+  },
+  {
+    "title": "Lafayette, Louisiana",
+    "position": {
+      "lat": 30.2241,
+      "lng": -92.0198
+    },
+    "cityCoordinates": [
+      {
+        "title": "Lafayette, Louisiana City",
+        "position": {
+          "lat": 30.2241,
+          "lng": -92.0198
+        },
+        "info": {
+          "text": "",
+          "linkText": "",
+          "url": ""
+        }
+      },
+      {
+        "title": "Lafayette, Louisiana City",
+        "position": {
+          "lat": 30.2241,
+          "lng": -92.0198
+        },
+        "info": {
+          "text": "",
+          "linkText": "",
+          "url": ""
+        }
+      },
+      {
+        "title": "Lafayette, Louisiana City",
+        "position": {
+          "lat": 30.2241,
+          "lng": -92.0198
+        },
+        "info": {
+          "text": "",
+          "linkText": "",
+          "url": ""
+        }
+      }
+    ]
+  },
+  {
+    "title": "Houston, Texas",
+    "position": {
+      "lat": 29.7604,
+      "lng": -95.3698
+    },
+    "cityCoordinates": [
+      {
+        "title": "Houston, Texas City",
+        "position": {
+          "lat": 29.7604,
+          "lng": -95.3698
+        },
+        "info": {
+          "text": "",
+          "linkText": "",
+          "url": ""
+        }
+      },
+      {
+        "title": "Houston, Texas City",
+        "position": {
+          "lat": 29.7604,
+          "lng": -95.3698
+        },
+        "info": {
+          "text": "",
+          "linkText": "",
+          "url": ""
+        }
+      },
+      {
+        "title": "Houston, Texas City",
+        "position": {
+          "lat": 29.7604,
+          "lng": -95.3698
+        },
+        "info": {
+          "text": "",
+          "linkText": "",
+          "url": ""
+        }
+      }
+    ]
+  },
+  {
+    "title": "Austin, Texas",
+    "position": {
+      "lat": 30.2672,
+      "lng": -97.7431
+    },
+    "cityCoordinates": [
+      {
+        "title": "Austin, Texas City",
+        "position": {
+          "lat": 30.2672,
+          "lng": -97.7431
+        },
+        "info": {
+          "text": "",
+          "linkText": "",
+          "url": ""
+        }
+      },
+      {
+        "title": "Austin, Texas City",
+        "position": {
+          "lat": 30.2672,
+          "lng": -97.7431
+        },
+        "info": {
+          "text": "",
+          "linkText": "",
+          "url": ""
+        }
+      },
+      {
+        "title": "Austin, Texas City",
+        "position": {
+          "lat": 30.2672,
+          "lng": -97.7431
+        },
+        "info": {
+          "text": "",
+          "linkText": "",
+          "url": ""
+        }
+      }
+    ]
+  },
+  {
+    "title": "San Antonio, Texas",
+    "position": {
+      "lat": 29.4241,
+      "lng": -98.4936
+    },
+    "cityCoordinates": [
+      {
+        "title": "San Antonio, Texas City",
+        "position": {
+          "lat": 29.4241,
+          "lng": -98.4936
+        },
+        "info": {
+          "text": "",
+          "linkText": "",
+          "url": ""
+        }
+      },
+      {
+        "title": "San Antonio, Texas City",
+        "position": {
+          "lat": 29.4241,
+          "lng": -98.4936
+        },
+        "info": {
+          "text": "",
+          "linkText": "",
+          "url": ""
+        }
+      },
+      {
+        "title": "San Antonio, Texas City",
+        "position": {
+          "lat": 29.4241,
+          "lng": -98.4936
+        },
+        "info": {
+          "text": "",
+          "linkText": "",
+          "url": ""
+        }
+      }
+    ]
+  },
+  {
+    "title": "Uvalde, Texas",
+    "position": {
+      "lat": 29.2097,
+      "lng": -99.7862
+    },
+    "cityCoordinates": [
+      {
+        "title": "Uvalde, Texas City",
+        "position": {
+          "lat": 29.2097,
+          "lng": -99.7862
+        },
+        "info": {
+          "text": "",
+          "linkText": "",
+          "url": ""
+        }
+      },
+      {
+        "title": "Uvalde, Texas City",
+        "position": {
+          "lat": 29.2097,
+          "lng": -99.7862
+        },
+        "info": {
+          "text": "",
+          "linkText": "",
+          "url": ""
+        }
+      },
+      {
+        "title": "Uvalde, Texas City",
+        "position": {
+          "lat": 29.2097,
+          "lng": -99.7862
+        },
+        "info": {
+          "text": "",
+          "linkText": "",
+          "url": ""
+        }
+      }
+    ]
+  },
+  {
+    "title": "Marfa, Texas",
+    "position": {
+      "lat": 30.3095,
+      "lng": -104.0205
+    },
+    "cityCoordinates": [
+      {
+        "title": "Marfa, Texas City",
+        "position": {
+          "lat": 30.3095,
+          "lng": -104.02
+        },
+        "info": {
+          "text": "",
+          "linkText": "",
+          "url": ""
+        }
+      },
+      {
+        "title": "Marfa, Texas City",
+        "position": {
+          "lat": 30.3095,
+          "lng": -104.02
+        },
+        "info": {
+          "text": "",
+          "linkText": "",
+          "url": ""
+        }
+      },
+      {
+        "title": "Marfa, Texas City",
+        "position": {
+          "lat": 30.3095,
+          "lng": -104.02
+        },
+        "info": {
+          "text": "",
+          "linkText": "",
+          "url": ""
+        }
+      }
+    ]
+  },
+  {
+    "title": "El Paso, Texas",
+    "position": {
+      "lat": 31.7619,
+      "lng": -106.485
+    },
+    "cityCoordinates": [
+      {
+        "title": "El Paso, Texas City",
+        "position": {
+          "lat": 31.7619,
+          "lng": -106.485
+        },
+        "info": {
+          "text": "",
+          "linkText": "",
+          "url": ""
+        }
+      },
+      {
+        "title": "El Paso, Texas City",
+        "position": {
+          "lat": 31.7619,
+          "lng": -106.485
+        },
+        "info": {
+          "text": "",
+          "linkText": "",
+          "url": ""
+        }
+      },
+      {
+        "title": "El Paso, Texas City",
+        "position": {
+          "lat": 31.7619,
+          "lng": -106.485
+        },
+        "info": {
+          "text": "",
+          "linkText": "",
+          "url": ""
+        }
+      }
+    ]
+  },
+  {
+    "title": "Nogales, Arizona",
+    "position": {
+      "lat": 31.3404,
+      "lng": -110.9343
+    },
+    "cityCoordinates": [
+      {
+        "title": "Nogales, Arizona City",
+        "position": {
+          "lat": 31.3404,
+          "lng": -110.934
+        },
+        "info": {
+          "text": "",
+          "linkText": "",
+          "url": ""
+        }
+      },
+      {
+        "title": "Nogales, Arizona City",
+        "position": {
+          "lat": 31.3404,
+          "lng": -110.934
+        },
+        "info": {
+          "text": "",
+          "linkText": "",
+          "url": ""
+        }
+      },
+      {
+        "title": "Nogales, Arizona City",
+        "position": {
+          "lat": 31.3404,
+          "lng": -110.934
+        },
+        "info": {
+          "text": "",
+          "linkText": "",
+          "url": ""
+        }
+      }
+    ]
+  },
+  {
+    "title": "Tucson, Arizona",
+    "position": {
+      "lat": 32.2226,
+      "lng": -110.9747
+    },
+    "cityCoordinates": [
+      {
+        "title": "Tucson, Arizona City",
+        "position": {
+          "lat": 32.2226,
+          "lng": -110.974
+        },
+        "info": {
+          "text": "",
+          "linkText": "",
+          "url": ""
+        }
+      },
+      {
+        "title": "Tucson, Arizona City",
+        "position": {
+          "lat": 32.2226,
+          "lng": -110.974
+        },
+        "info": {
+          "text": "",
+          "linkText": "",
+          "url": ""
+        }
+      },
+      {
+        "title": "Tucson, Arizona City",
+        "position": {
+          "lat": 32.2226,
+          "lng": -110.974
+        },
+        "info": {
+          "text": "",
+          "linkText": "",
+          "url": ""
+        }
+      }
+    ]
+  },
+  {
+    "title": "Joshua Tree, California",
+    "position": {
+      "lat": 34.1347,
+      "lng": -116.3131
+    },
+    "cityCoordinates": [
+      {
+        "title": "Joshua Tree, California City",
+        "position": {
+          "lat": 34.1347,
+          "lng": -116.313
+        },
+        "info": {
+          "text": "",
+          "linkText": "",
+          "url": ""
+        }
+      },
+      {
+        "title": "Joshua Tree, California City",
+        "position": {
+          "lat": 34.1347,
+          "lng": -116.313
+        },
+        "info": {
+          "text": "",
+          "linkText": "",
+          "url": ""
+        }
+      },
+      {
+        "title": "Joshua Tree, California City",
+        "position": {
+          "lat": 34.1347,
+          "lng": -116.313
+        },
+        "info": {
+          "text": "",
+          "linkText": "",
+          "url": ""
+        }
+      }
+    ]
+  },
+  {
+    "title": "Los Angeles, California",
+    "position": {
+      "lat": 34.0522,
+      "lng": -118.2437
+    },
+    "cityCoordinates": [
+      {
+        "title": "Los Angeles, California City",
+        "position": {
+          "lat": 34.0522,
+          "lng": -118.243
+        },
+        "info": {
+          "text": "",
+          "linkText": "",
+          "url": ""
+        }
+      },
+      {
+        "title": "Los Angeles, California City",
+        "position": {
+          "lat": 34.0522,
+          "lng": -118.243
+        },
+        "info": {
+          "text": "",
+          "linkText": "",
+          "url": ""
+        }
+      },
+      {
+        "title": "Los Angeles, California City",
+        "position": {
+          "lat": 34.0522,
+          "lng": -118.243
+        },
+        "info": {
+          "text": "",
+          "linkText": "",
+          "url": ""
+        }
+      }
+    ]
+  },
+  {
+    "title": "San Diego, California",
+    "position": {
+      "lat": 32.7157,
+      "lng": -117.1611
+    },
+    "cityCoordinates": [
+      {
+        "title": "San Diego, California City",
+        "position": {
+          "lat": 32.7157,
+          "lng": -117.161
+        },
+        "info": {
+          "text": "",
+          "linkText": "",
+          "url": ""
+        }
+      },
+      {
+        "title": "San Diego, California City",
+        "position": {
+          "lat": 32.7157,
+          "lng": -117.161
+        },
+        "info": {
+          "text": "",
+          "linkText": "",
+          "url": ""
+        }
+      },
+      {
+        "title": "San Diego, California City",
+        "position": {
+          "lat": 32.7157,
+          "lng": -117.161
+        },
+        "info": {
+          "text": "",
+          "linkText": "",
+          "url": ""
+        }
+      }
+    ]
+  }
+]
