@@ -10,7 +10,7 @@ export const getMap = () => {
 export const renderMap = (options) => {
   const { Map } = google.maps;
 
-  map = new Map(document.getElementById('map'), {
+  const map = new Map(document.getElementById('map'), {
     ...mapOptions,
     ...options,
   });

@@ -3,6 +3,7 @@ import icon2 from '../../assets/icon-2.svg';
 import icon3 from '../../assets/icon-3.svg';
 import icon4 from '../../assets/icon-4.svg';
 import icon5 from '../../assets/icon-5.svg';
+import amal from '../../assets/Real-Time-Amal_Final.gif';
 import {
   BOUNCE_ANIMATION_DURATION,
   MARKER_SIZE,
@@ -31,14 +32,14 @@ export const renderMarker = async (map, coordinate, options = {}) => {
   const markerSize = options.markerSize ?? MARKER_SIZE;
   const thresholdSize = options.thresholdSize ?? MARKER_MAX_SIZE;
   const labelMultiplier = options.labelMultiplier ?? 1;
-
+  const isCurrent = !!options.isCurrent;
   const params = {
     map,
     // collisionBehavior: google.maps.CollisionBehavior.OPTIONAL_AND_HIDES_LOWER_PRIORITY,
     title: coordinate.title,
     position: coordinate.position,
     icon: {
-      url: icons[counter],
+      url: isCurrent ? amal : icons[counter],
       // url: 'https://i.gifer.com/NXRX.gif',
       ...generateMarkerSize(markerSize),
     },

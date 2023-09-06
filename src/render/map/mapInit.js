@@ -21,7 +21,14 @@ export async function loadMap() {
 
     renderRouteWithWayPoints(map, coordinates, index);
 
-    renderMarker(map, coordinate);
+    const options = {};
+
+    if (index === 0) {
+      // options.isCurrent = true;
+      // options.markerSize = 100;
+      // options.thresholdSize = 150;
+    }
+    renderMarker(map, coordinate, options);
 
     await delay(timeBetweenAnimation);
   }
