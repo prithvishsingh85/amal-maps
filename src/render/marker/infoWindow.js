@@ -49,7 +49,7 @@ export const createInfoWindow = (coordinate) => {
   return new google.maps.InfoWindow({
     content: contentString,
     ariaLabel: text,
-    disableAutoPan: false,
+    disableAutoPan: true,
     pixelOffset: new google.maps.Size(40, 0),
   });
 };

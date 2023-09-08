@@ -18,7 +18,7 @@ body {
 #map-back-button {
   position: absolute;
   top: 10px;
-  left: 200px;
+  left: 210px;
   width: fit-content;
   max-height: 40px;
   padding: 5px 17px 5px 10px;
@@ -36,10 +36,23 @@ body {
   cursor: pointer;
 }
 
+#map-city-name {
+  position: absolute;
+  top: 70px;
+  left: 10px;
+  /* right: 0px; */
+  width: fit-content;
+  margin: auto;
+  font-size: 36px;
+  font-family: Syne, sans-serif;
+  display: none;
+}
+
 #map-back-button:hover {
   background: none padding-box rgb(235, 235, 235);
 }
 
+#map-city-name.show,
 #map-back-button.show {
   display: flex;
 }

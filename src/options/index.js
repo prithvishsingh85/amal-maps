@@ -15,11 +15,9 @@ export const state = {
 export const CENTER = { lat: 34.8283, lng: -98.5795 };
 export const MARKER_DROP_ANIMATION = 4000;
 export const mapOptions = {
-  zoom: 5,
+  // zoom: 5,
   mapId: 'fc8b09cecfb6decb',
   tilt: 0,
-  minZoom: 4, // minimum zoom level
-  maxZoom: 12, // maximum zoom level
 };
 
 /* Route Options */

@@ -19,10 +19,9 @@ export const renderMap = (options) => {
 
   google.maps.event.addListener(map, 'zoom_changed', () => {
     closeInfoWindow();
-    onZoomChangeEvent(map);
+    onZoomChangeEvent(map, options.minZoom);
   });
   google.maps.event.addListener(map, 'dragstart', closeInfoWindow);
-
   return map;
 };
 

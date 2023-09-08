@@ -1,9 +1,9 @@
 import { goBack } from '../backButton';
 import { closeInfoWindow } from '../marker/infoWindow';
 
-export const onZoomChangeEvent = async (map) => {
+export const onZoomChangeEvent = async (map, minZoom) => {
   closeInfoWindow();
-  if (map.getZoom() < 12.2) {
+  if (map.getZoom() < minZoom + 0.1) {
     goBack();
   }
 };

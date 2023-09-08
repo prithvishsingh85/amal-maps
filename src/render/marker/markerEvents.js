@@ -89,12 +89,6 @@ export const onMarkerClick = (map, marker, coordinate) => {
     state.map = map;
     loadCityMap(marker, coordinate.cityCoordinates);
   } else if (coordinate.info?.url) {
-    const infoWindow = getInfoWindow(coordinate);
-    infoWindow.open({
-      anchor: marker,
-      map,
-    });
     openInfoWindow(map, marker, coordinate);
-    // window.open(coordinate.link.url, '_blank');
   }
 };
