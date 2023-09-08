@@ -19,7 +19,7 @@ export async function loadCityMap(srcMarker, coordinates) {
     zoom: 13,
     tilt: 60,
     heading: START_HEADING,
-    // minZoom: MIN_ZOOM, // minimum zoom level
+    minZoom: MIN_ZOOM, // minimum zoom level
     // maxZoom: 25, // maximum zoom level
     title: srcMarker.title,
   });
