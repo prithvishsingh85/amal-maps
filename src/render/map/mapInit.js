@@ -6,12 +6,13 @@ import { renderRouteWithWayPoints, WAYPOINTS } from '../route/direction';
 import { delay, fitMapToBounds } from '../../utils';
 
 export async function loadMap() {
-  const coordinates = getCoordinates();
+  const coordinates = await getCoordinates();
 
   removeBackButton();
   removeCityName();
 
-  const timeBetweenAnimation = MARKER_DROP_ANIMATION / coordinates.length;
+  const timeBetweenAnimation =
+    MARKER_DROP_ANIMATION / (coordinates.length || 1);
 
   const map = renderMap({
     center: CENTER,

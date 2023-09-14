@@ -1,8 +1,22 @@
 import COORDINATES from './coordinates.json';
 
 const MAX = 0;
-export const getCoordinates = () => {
-  return COORDINATES.slice(0, MAX || COORDINATES.length);
+let coordinates = null;
+export const getCoordinates = async () => {
+  if (coordinates) return coordinates;
+  try {
+    const response = await fetch(
+      'https://cms.walkwithamal.org/wp-json/api/v1/map-data',
+    );
+    const data = await response.json();
+    if (!data?.length) throw data;
+    coordinates = data;
+    return coordinates;
+  } catch (ex) {
+    console.log(ex);
+    return [];
+    // return COORDINATES.slice(0, MAX || COORDINATES.length);
+  }
 };
 
 export const state = {
